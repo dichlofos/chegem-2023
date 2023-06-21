@@ -1,0 +1,2165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>marshrut.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style1">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style35">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style18">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style5">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style21">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style11">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed631</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed6001">
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style13">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style170">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style27">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style29">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style7">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed36">
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed710">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed633</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed600">
+	</Style>
+	<Style id="style38">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed2">
+	</Style>
+	<Style id="failed633">
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id34">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed513">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed632</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style26">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed630">
+	</Style>
+	<StyleMap id="stylemap_id33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed6003">
+	</Style>
+	<StyleMap id="stylemap_id23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin00">
+	</Style>
+	<Style id="style20">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style10">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style2">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Style id="style">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style17">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style32">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style24">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="failed511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style30">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style0">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id27">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed510">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6003</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed630</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style25">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style16">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="style4">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style15">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style34">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed631">
+	</Style>
+	<StyleMap id="failed3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id35">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style36</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style37">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="failed12">
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed6002">
+	</Style>
+	<Style id="failed63">
+	</Style>
+	<StyleMap id="stylemap_id30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style14">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style28">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style100">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+	</Style>
+	<Style id="style22">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style6">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style9">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style23">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style19">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style8">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style31">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style38</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style3">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="style33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style32</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style12">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed8">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed632">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed6000">
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style36">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="stylemap_id31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style33</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0055ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Сентябрь 1кс</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>День 1</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Плутания</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin13</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.92937906797863,43.3773594270783,0 42.92994406534233,43.37693343227613,0 42.93039095480434,43.37658094520082,0 42.9308055586384,43.37628204941397,0 42.93130124758937,43.3759217198317,0 42.93156056574526,43.37567382590176,0 42.93197296341801,43.37544479109139,0 42.93253593922684,43.374937128706,0 42.93266577536384,43.37474270051072,0 42.93293235416791,43.37441345109619,0 42.93319793719488,43.37417224386458,0 42.93331810728289,43.37404964540461,0 42.93359797649653,43.37370705604472,0 42.93382838053991,43.37329333648308,0 42.93388027360244,43.37296643205081,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Брод</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Point>
+					<coordinates>42.929197,43.377061,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Старт (1483)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.93154483905768</longitude>
+					<latitude>43.38305482208485</latitude>
+					<altitude>0</altitude>
+					<heading>18.26912818336629</heading>
+					<tilt>50.18995344103992</tilt>
+					<range>852.5089773632963</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.93075443489197,43.38328405027243,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>День 1 (08.09) 4,77+4,87=9,64 (1970)</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<Point>
+					<coordinates>42.947696,43.361162,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь 1 день</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin15</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.93079898512909,43.38336652426697,0 42.93103267114928,43.38330411014531,0 42.93145931673602,43.38363747845983,0 42.9317300143757,43.38390313612728,0 42.93178948794255,43.38381471392758,0 42.93159635152789,43.3834404817736,0 42.93129232782329,43.38293982054794,0 42.93098568581814,43.38238116136435,0 42.93073474634967,43.38209681011718,0 42.93036501044605,43.38179716594399,0 42.92982902702222,43.38148183719174,0 42.92953283646219,43.38116228700447,0 42.92923860569397,43.38080268355745,0 42.92887668506096,43.38041737460404,0 42.92862923423036,43.3799726798362,0 42.92846961302806,43.37960344724793,0 42.92858429010226,43.37926185821677,0 42.92886631930393,43.37858980944944,0 42.92908969239682,43.37811791749417,0 42.92923233648793,43.37781461240704,0 42.92935280562988,43.37740389752462,0 42.92936452868588,43.37720718543829,0 42.92930551413203,43.37711657986853,0 42.9292387441662,43.37703536690465,0 42.92914981211817,43.37699766805319,0 42.92905012448195,43.37694735678873,0 42.92892619405543,43.37688352407213,0 42.92891388093386,43.37680496313361,0 42.92905488686242,43.37663707953745,0 42.92940683270109,43.37648028562398,0 42.92963366441261,43.37627197917881,0 42.93056280001103,43.37532498433725,0 42.93125999928692,43.37462512551631,0 42.93138744546724,43.37443996322852,0 42.93152500680335,43.37422364784415,0 42.93177602123639,43.37393379593026,0 42.93185854034651,43.37378188470743,0 42.93232611187027,43.37340041996905,0 42.93253275572214,43.37326641014719,0 42.93257043152969,43.3732186193665,0 42.93260454785993,43.37310154466046,0 42.93244389879764,43.37304693910416,0 42.93175379187331,43.37332169677277,0 42.93124293379616,43.37328282544282,0 42.93131290516869,43.37306335995928,0 42.93196754324168,43.37284176597137,0 42.93247299307271,43.37248090877279,0 42.93276079995136,43.37208917174571,0 42.93300647132564,43.37185927905281,0 42.93325037228717,43.37163228744367,0 42.93354188373171,43.37125351189644,0 42.93372389353252,43.37091149404366,0 42.93394312887821,43.37061917130696,0 42.93435244377452,43.37039697093356,0 42.93464740354527,43.37005124630843,0 42.93481249483609,43.36981369990471,0 42.935029770066,43.36963676106913,0 42.93512913137437,43.36945837736218,0 42.93510865720765,43.36930219430077,0 42.93515111620945,43.36913826125495,0 42.93518087801307,43.36903744214744,0 42.93530404474784,43.36901909417848,0 42.93539229101921,43.36889857015516,0 42.93555110849826,43.36878962856651,0 42.93576845707401,43.36871596827095,0 42.93586929961022,43.36886184061275,0 42.93605561564148,43.36896905342924,0 42.93612564869374,43.36886944526732,0 42.93626323630282,43.36876313865028,0 42.93639685072012,43.36870054460869,0 42.93666365389714,43.36863013471173,0 42.93699706279384,43.36858015798566,0 42.93721494590603,43.36833031816929,0 42.93734095798228,43.36815285170489,0 42.93736870548424,43.36799915146246,0 42.93746170440308,43.3678351861959,0 42.93756646157436,43.36809801091754,0 42.93755614756044,43.36837529781415,0 42.93749165379851,43.36865982982747,0 42.93741835674108,43.36886323214554,0 42.93735507435839,43.36907667734747,0 42.93737645948218,43.36919981770051,0 42.93763370250559,43.36888714913322,0 42.93805035219366,43.36849534201146,0 42.93804816241584,43.36846618410916,0 42.93828574900716,43.3682386702131,0 42.93853171820003,43.36773893497183,0 42.93855530156647,43.36770722566877,0 42.93899712679119,43.36740532161382,0 42.93916122731798,43.36726280910101,0 42.93924756354361,43.36703953715535,0 42.93948151641241,43.36669309829364,0 42.93958440377038,43.36640580081675,0 42.93961117923245,43.36622886851284,0 42.93971662738278,43.36597776912218,0 42.93982979783783,43.36583444207093,0 42.94015348011426,43.36557922126055,0 42.94132707242259,43.36528805688114,0 42.94204971957047,43.36489418394933,0 42.94310153736227,43.36476999736703,0 42.94373311881647,43.36463911606999,0 42.94460832748051,43.3644717174526,0 42.94524891051181,43.36424033826234,0 42.94565226184492,43.36384652896521,0 42.94629774133034,43.36338104142353,0 42.94720654456539,43.36313312865831,0 42.94761943211266,43.36279058289875,0 42.94817611362991,43.36246517116118,0 42.94817958989508,43.36244367649858,0 42.94852635652116,43.36203370228451,0 42.94868352619172,43.36169538472712,0 42.94876255852843,43.3615714849354,0 42.94872680176158,43.36142960218335,0 42.94871398558242,43.36133543337777,0 42.94861322154671,43.36126304341601,0 42.94845569768304,43.3612210506513,0 42.94824632923598,43.36117620691786,0 42.94800840767041,43.36114002939014,0 42.94769592899743,43.3611596652214,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Брод</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.93581604961482</longitude>
+					<latitude>43.36911245190719</latitude>
+					<altitude>0</altitude>
+					<heading>2.560614326764026</heading>
+					<tilt>34.44412422394021</tilt>
+					<range>160.1153247657381</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.93551172234388,43.36882200097861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Мост</name>
+				<visibility>0</visibility>
+				<description>Координаты приблизительные</description>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.94883756035216</longitude>
+					<latitude>43.36151840579734</latitude>
+					<altitude>0</altitude>
+					<heading>7.894401183824181</heading>
+					<tilt>35.59358619219662</tilt>
+					<range>112.6339367234677</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.94874177665067,43.36148758904019,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 2</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>высота 3138</name>
+				<visibility>0</visibility>
+				<styleUrl>#stylemap_id0</styleUrl>
+				<Point>
+					<coordinates>42.98675998114049,43.3152010012418,3117.457764</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 2</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.94755007427975,43.36114734210931,0 42.94713141420866,43.36111887813066,0 42.94679688125146,43.36117097706099,0 42.9465881458923,43.36112292674028,0 42.94654675389601,43.36104834904797,0 42.9465263674056,43.36092188340303,0 42.94656848327287,43.36080668114811,0 42.94662498801779,43.3606800084237,0 42.94672360268339,43.36057819445445,0 42.94681818670968,43.36043762427175,0 42.94690656488016,43.36033460013087,0 42.94703976778622,43.36014810315326,0 42.94721416068862,43.35994016264564,0 42.94795287810638,43.35955874071622,0 42.94805926407787,43.35936447095843,0 42.94817675332114,43.35919811191103,0 42.94827598971931,43.35902738712392,0 42.9484049490703,43.35895820663917,0 42.94860703093359,43.35887135828097,0 42.94882559501818,43.35879872788762,0 42.94910695372543,43.35869474342719,0 42.94926121836303,43.3585173904578,0 42.94938857199553,43.35834784493108,0 42.94969063989033,43.35819876948992,0 42.94994655788203,43.35810526018111,0 42.95033429398609,43.358001249604,0 42.95074077868353,43.35781217261517,0 42.95105868488166,43.357677053701,0 42.95127202229344,43.35759676999432,0 42.95164630429555,43.35749582892098,0 42.95198100261301,43.35740799042262,0 42.95241585442269,43.35721071766854,0 42.95293994630421,43.35701178125724,0 42.95346908340222,43.35681693006519,0 42.95404666980141,43.3566516902376,0 42.95459230036588,43.35635010094946,0 42.95540622692513,43.35606377313846,0 42.95656897521162,43.35547232348,0 42.95707833777755,43.35526360064186,0 42.95763299421923,43.35501522984501,0 42.95815728617777,43.35482858011064,0 42.95834742404404,43.35468051523886,0 42.95885701825957,43.35449361232124,0 42.9590680483405,43.35431266159804,0 42.95946135373507,43.35421301920982,0 42.9595912529244,43.35406762471927,0 42.95968413527647,43.35393568037244,0 42.95969734743512,43.35373057241704,0 42.95973432915256,43.3535531292456,0 42.95985363090776,43.35343768965686,0 42.96004078414221,43.35332689071971,0 42.96024752168206,43.3532366150349,0 42.96030508886995,43.35318067130568,0 42.96036538938597,43.3530798341787,0 42.9603907650556,43.35300255900652,0 42.96046179120834,43.35287785587673,0 42.96052288384621,43.35278459852199,0 42.9605532181969,43.35274468100447,0 42.96068679501443,43.35270072247789,0 42.96090685355078,43.35262661029181,0 42.96106332317078,43.35253004469487,0 42.96107120230309,43.35252953774045,0 42.96124716198111,43.352454811191,0 42.9614201562646,43.35231632650813,0 42.96153776900266,43.35220474625841,0 42.9617510835845,43.35203983932342,0 42.96203307355118,43.35180440710282,0 42.96203281543457,43.35179480634366,0 42.96252483710879,43.35151405534598,0 42.96278909821901,43.35134374486084,0 42.96298910466443,43.35120366890284,0 42.96320155925427,43.35101362791855,0 42.96340408770634,43.35086713661087,0 42.96345709765681,43.3507353394853,0 42.96351187810377,43.3506496248178,0 42.96360230031443,43.35056636719072,0 42.963726993728,43.35053381944345,0 42.96383057709758,43.35051500848337,0 42.963951584658,43.35047372320389,0 42.96392179339748,43.35036372320187,0 42.96397238623232,43.35033530956684,0 42.96409866178178,43.3502635417149,0 42.96411450365371,43.35014696134048,0 42.96412337844355,43.35002717724171,0 42.96427544135268,43.34952282708908,0 42.96456446529382,43.34930073471777,0 42.96483016097648,43.3488907307792,0 42.9651785908755,43.34854878972661,0 42.96545029496759,43.34832611603485,0 42.96600999406991,43.34757321582099,0 42.96627962532676,43.34724830851835,0 42.96737061791021,43.34657255985979,0 42.96779376931221,43.34617599561048,0 42.96839007879127,43.34617691126372,0 42.96923213171819,43.34546452338819,0 42.96980984640492,43.34513234930149,0 42.97033228860408,43.34469753475372,0 42.97049947937937,43.34452533322568,0 42.97082035742388,43.34418271876699,0 42.9708360080248,43.34390267237657,0 42.97092082083499,43.34367456160997,0 42.97098401270507,43.3434485404116,0 42.97129878540663,43.34326449193621,0 42.97151832313237,43.3430518185835,0 42.97175592113386,43.34291351289918,0 42.97241771612733,43.34253678559085,0 42.97262985201878,43.34234491025072,0 42.97281912713198,43.34195010330382,0 42.97313555062586,43.34167621804707,0 42.97347736862164,43.34123266871745,0 42.97387656753531,43.34086717567712,0 42.97414876699536,43.34080343756465,0 42.97417066295818,43.34066057717811,0 42.97418029103406,43.34052400673739,0 42.97420637446855,43.34024246625406,0 42.97429308724381,43.3401013919337,0 42.97540647854824,43.33829952993445,0 42.97604222736735,43.33719132204356,0 42.97608636336261,43.33688987232572,0 42.97617859099848,43.33661227589338,0 42.97659621725762,43.33613839918767,0 42.97692153450591,43.33572510952308,0 42.97690927784373,43.33558962242947,0 42.97756673790894,43.3338903339955,0 42.97776860685737,43.3337185537613,0 42.97791811019774,43.33343178627495,0 42.97787169781385,43.33330574804208,0 42.97789309963748,43.33320485254311,0 42.97803987311215,43.33306450746841,0 42.97829663011198,43.3327428047917,0 42.97848534167198,43.33253958246858,0 42.97870248523421,43.33227693192904,0 42.9789538324387,43.3320432629361,0 42.97896036334412,43.33203107304631,0 42.97899460488308,43.33187133492449,0 42.97910495802644,43.33172612119427,0 42.97935226026709,43.33153250869699,0 42.98018753502689,43.33091258914625,0 42.98024012381936,43.33095064704824,0 42.98036679715371,43.33092734653258,0 42.98058771824217,43.33060678607834,0 42.98094141308884,43.33010358408301,0 42.98123227346773,43.32978189263726,0 42.98146154293266,43.32957265306987,0 42.98189958784256,43.32919233845696,0 42.98222202157646,43.32901038265487,0 42.98265290646928,43.32896644221081,0 42.98286196632638,43.3286295887095,0 42.98283181868828,43.32831416178652,0 42.9828531286695,43.32792849449875,0 42.98296527950226,43.32762182952209,0 42.98303442236505,43.32724357654119,0 42.98306265716757,43.32688827225848,0 42.98310776490637,43.3267944092638,0 42.98307735204207,43.32663454764992,0 42.98308237407116,43.32654343132028,0 42.9830486585829,43.32653203671686,0 42.98299134088827,43.32654877837603,0 42.98295245020525,43.32654294119144,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 2 (09.09)  8,28+11,68=19,96 (2753)</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<Point>
+					<coordinates>42.982958,43.326547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Акк. рад.</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin11</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.9829899100249,43.32653414696202,0 42.98307134264079,43.32631663009536,0 42.98310420282952,43.3261763905338,0 42.98306312704675,43.32597006754138,0 42.9829544609152,43.32576717844359,0 42.98288400662234,43.32558896673047,0 42.98288442624435,43.32548254441797,0 42.983032128193,43.3252498527891,0 42.98324555493365,43.32503026481025,0 42.98325037663938,43.32472055962741,0 42.98328302053788,43.32450445710885,0 42.98333637212851,43.32436089273182,0 42.98342217090713,43.32425829827412,0 42.98352322545897,43.3242271317984,0 42.98361167667225,43.32396611150832,0 42.98391072497209,43.32377863383396,0 42.98393289120568,43.32372505851627,0 42.98393643466407,43.32362910495558,0 42.98389759749113,43.32354440897429,0 42.98384256215211,43.32346751966768,0 42.98368115466857,43.32341216114527,0 42.98361809536696,43.32341747834024,0 42.98357059443304,43.32327155475014,0 42.9835497104097,43.32320236437496,0 42.98365890898465,43.32316950797564,0 42.98367803563803,43.32292111229148,0 42.9838376372222,43.32287780077905,0 42.98387692479915,43.32284249209761,0 42.98397008951287,43.32282303574125,0 42.98401580754769,43.32262003705355,0 42.98427096789672,43.32260269974849,0 42.98426507171087,43.32255717380984,0 42.98459867840735,43.32244325426799,0 42.98455337485228,43.32236740482629,0 42.9847059903503,43.32229649554554,0 42.98470250438848,43.32223628490856,0 42.98447493912987,43.32205348824071,0 42.98437956087913,43.32190619832783,0 42.98434604918441,43.32173255632841,0 42.98437673749826,43.32162747293683,0 42.98430455194768,43.32156767690216,0 42.98427539974619,43.32134713711998,0 42.98432731210458,43.32107794548396,0 42.98436340384284,43.32091638027225,0 42.98450802298356,43.32083358708835,0 42.98460937824653,43.32075480107064,0 42.98452554216657,43.32064296989274,0 42.9846061399027,43.32035273280053,0 42.98465195364645,43.32020697055776,0 42.9849438129461,43.31974453273546,0 42.98507933682862,43.31947557213542,0 42.98511182696785,43.31937746597453,0 42.98498799929194,43.31913413210212,0 42.98494827323332,43.31879377273119,0 42.98485260882458,43.31853307658367,0 42.9849785312378,43.31807246895157,0 42.98510681345837,43.31771336975326,0 42.98514153921991,43.31757774058384,0 42.98562254188327,43.31738654956095,0 42.98570520993128,43.31716567629857,0 42.98563703089352,43.316866844587,0 42.98543681990664,43.31653674753048,0 42.98539237297025,43.31619433148083,0 42.98580620961953,43.31594089876403,0 42.98612681430124,43.31572150961311,0 42.98610203445458,43.31541322323628,0 42.98633369023602,43.31551518284467,0 42.98649955327382,43.3154778679309,0 42.98668091011943,43.31528431191251,0 42.98676245881562,43.31521539192177,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 3</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Сакашиль Нижний (Вост.) (1А, 3095)</name>
+				<visibility>0</visibility>
+				<styleUrl>#failed710</styleUrl>
+				<Point>
+					<coordinates>42.99473,43.32107,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>День 3 (6,82+6,43=13,25) (2633)</name>
+				<visibility>0</visibility>
+				<styleUrl>#stylemap_id10</styleUrl>
+				<Point>
+					<coordinates>43.00729899667203,43.29278603196144,2631.242188</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 3</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.9829968375354,43.32654881612287,0 42.98535406879999,43.32520402993609,0 42.98576882964198,43.32525661650359,0 42.98867455381429,43.32448459092562,0 42.98902957831593,43.32423119765962,0 42.99034195995483,43.32302019624049,0 42.99242631994284,43.32159808252254,0 42.99257453524388,43.32162519277937,0 42.99294063786434,43.32144784673,0 42.99394666201266,43.32098921899051,0 42.99413058565048,43.32150414009423,0 42.99461732612085,43.32126195897904,0 42.99537264147737,43.32167819297393,0 42.99584975324304,43.32100120056865,0 42.99590099427307,43.32040313632293,0 42.99662180271184,43.32009961592926,0 42.99691245611912,43.31932033138376,0 42.9995316743076,43.32030437519171,0 43.00191859091157,43.32078954551202,0 43.00496087987165,43.32012657684377,0 43.00481642349648,43.319927834152,0 43.00492410577048,43.31976071573123,0 43.00627965181645,43.31942640405966,0 43.00667608322577,43.31920491225717,0 43.00979852653362,43.3178948545206,0 43.01004322473918,43.3181570911384,0 43.009277525306,43.31858329538056,0 43.00927098680013,43.31929546709954,0 43.0113293464961,43.31871051739552,0 43.0150872450413,43.31566766795153,0 43.01638635146763,43.31609127455624,0 43.01678664056454,43.3158555588718,0 43.01753651105253,43.31484627520418,0 43.01715882755015,43.31447615024847,0 43.017169101904,43.31359838388454,0 43.01703533749599,43.31257791790561,0 43.01658206847621,43.30932556623732,0 43.01853810176675,43.30874099023464,0 43.01857226434628,43.30778433476398,0 43.01820436511733,43.30679478865933,0 43.01742371440922,43.30618118942345,0 43.01615519061956,43.30532057903972,0 43.01586035991028,43.30488290115844,0 43.0158292333853,43.30461668287065,0 43.0160522738494,43.30459456530321,0 43.01573578165257,43.30402543484428,0 43.01576921319363,43.30294303839165,0 43.01589511078672,43.30154324014242,0 43.01590974197202,43.30116807736265,0 43.01545332383756,43.30009249799825,0 43.01508277078106,43.29983961252221,0 43.01433907149252,43.29903204142128,0 43.0136038471379,43.29817346665313,0 43.01301645359624,43.29749648012896,0 43.01154452228015,43.29620676672611,0 43.00730930081662,43.29280181683053,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>2332</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.0185527887538</longitude>
+					<latitude>43.30901432495826</latitude>
+					<altitude>0</altitude>
+					<heading>-0.9798377091587945</heading>
+					<tilt>60.00179835479707</tilt>
+					<range>231.2522491905563</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.01855206770086,43.30871063790158,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 4</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Красные Камни (1А, 3492)</name>
+				<visibility>0</visibility>
+				<styleUrl>#failed3</styleUrl>
+				<Point>
+					<coordinates>43.01622,43.27354,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>День 4 (5+9,67=14,67) (3576)</name>
+				<visibility>0</visibility>
+				<styleUrl>#stylemap_id22</styleUrl>
+				<Point>
+					<coordinates>43.01115098409355,43.25886103324592,3575.79541</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 4</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin14</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.00717576610536,43.29277085373393,0 43.00644451122975,43.29180583856244,0 43.00542501018826,43.29060257695079,0 43.00356346058919,43.28881579877614,0 43.0022718060606,43.28741983717211,0 43.00202047540221,43.28724655200607,0 43.0014527925814,43.28570152953125,0 43.00093327479773,43.28479007357596,0 43.00065759631423,43.28391034891495,0 43.00041745482874,43.28359446862865,0 43.00081816779159,43.28186463606362,0 43.00123759403636,43.28123337752952,0 43.00080386084962,43.28128859739402,0 43.00064860806427,43.27987603304818,0 43.00374501595213,43.27860178779469,0 43.00716750518625,43.27684529057023,0 43.00995911884815,43.27572315732494,0 43.01085815690759,43.27574392314129,0 43.01350789555323,43.27552526756391,0 43.01399853217484,43.27492909868141,0 43.01525062567872,43.27453886724178,0 43.01528401054021,43.27395623617375,0 43.01635295764618,43.27423933890122,0 43.01638521309358,43.27344838288285,0 43.01611912991542,43.27325245034479,0 43.01565823080159,43.27264708298785,0 43.01509970521968,43.27213495207267,0 43.01505695541337,43.27134760298259,0 43.01517424964695,43.26997674886336,0 43.01497755422619,43.26881880870563,0 43.01482745704195,43.26625179886987,0 43.0145766801754,43.26381693468159,0 43.01441540103014,43.26332763607132,0 43.01394367275499,43.26294050065262,0 43.01356065958137,43.26255505896508,0 43.01335076603883,43.26198525466324,0 43.0128929711117,43.26143007281625,0 43.0124357353357,43.26137946838725,0 43.01224578038613,43.2607748015793,0 43.01187230201328,43.25975818550095,0 43.01154977902137,43.25928049395193,0 43.01109025325315,43.25885557796048,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 5</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Путь день 5</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin12</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.011104264434,43.2588137302755,0 43.01061929515103,43.25947645907484,0 43.0100596545414,43.26013079796882,0 43.00991603414315,43.26044241026953,0 43.00951467662237,43.26061554849203,0 43.00909023842902,43.26109383880426,0 43.0089074629101,43.26144117624946,0 43.00831469827524,43.26190687614097,0 43.00801334047217,43.26203205344678,0 43.00769968863145,43.26235322976401,0 43.00758963242646,43.26273409809081,0 43.00731444853334,43.26320618806,0 43.00710643085033,43.26355882795516,0 43.00687858367456,43.26366385612299,0 43.00673534717218,43.26379075163276,0 43.00663294156748,43.26410714049689,0 43.00626001896025,43.26374868807395,0 43.00589104392966,43.26334859996619,0 43.00540466222501,43.26316253935296,0 43.00488832891392,43.26290095749155,0 43.00365499384887,43.26261053024422,0 43.00435849843444,43.26258448716944,0 43.00509755397706,43.26268495689174,0 43.00599224621237,43.2624960499404,0 43.00614595402779,43.26222425863545,0 43.00685314370585,43.26170846783361,0 43.00786726971538,43.26107484549776,0 43.00888053598269,43.2604887770593,0 43.01035656582768,43.25986422370185,0 43.01148058112327,43.25967145344765,0 43.01191535694852,43.25954476712597,0 43.01217663733912,43.25939326320645,0 43.0127603554824,43.25921471154515,0 43.01327322160687,43.25903935413865,0 43.01537639020591,43.25830287206746,0 43.01638861265119,43.25783905507205,0 43.01694831824103,43.25743402998026,0 43.01743696993572,43.25693086416495,0 43.01787008279785,43.25639322791238,0 43.01858694104865,43.25587539719704,0 43.01926420501889,43.255493031915,0 43.02045688455197,43.25566878466911,0 43.02272235863652,43.25601700259132,0 43.02523452007767,43.25654309683397,0 43.02772124304569,43.25720192425039,0 43.02873893809289,43.25714260554644,0 43.03038181371281,43.25654391346611,0 43.03162516091656,43.25617868428994,0 43.03333916407845,43.25567792664896,0 43.03539386001664,43.25535843840301,0 43.03633451431337,43.2554037292952,0 43.03707743806888,43.25547336086986,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 5</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.01117889007463,43.25879749388232,0 43.00100839239693,43.25836138321669,0 42.99995200588686,43.25808298686644,0 42.99427570551091,43.25849469945778,0 42.98748794396597,43.26233919516734,0 42.98411620466281,43.26130047123783,0 42.98303708824647,43.26040378881256,0 42.97894826324237,43.25950875051953,0 42.97576401105324,43.25777231529603,0 42.97400004184559,43.25756967157368,0 42.97304254823659,43.25718686309354,0 42.9727972877549,43.2571555867471,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 5 (10,96+3,42=14,38) (3307)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.97332881674188</longitude>
+					<latitude>43.25751929000872</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02544506930029792</heading>
+					<tilt>55.86689130072052</tilt>
+					<range>290.6495436678384</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id24</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.97280220426562,43.25715943086433,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3592</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.01170124017155</longitude>
+					<latitude>43.25972028941902</latitude>
+					<altitude>0</altitude>
+					<heading>-0.02209076632577701</heading>
+					<tilt>56.9766462967984</tilt>
+					<range>492.663852415348</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id20</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.01120632321268,43.2597477449477,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3743</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.006720061545</longitude>
+					<latitude>43.26389722725455</latitude>
+					<altitude>0</altitude>
+					<heading>5.501594127169054</heading>
+					<tilt>43.56839857383842</tilt>
+					<range>406.0567481565099</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id2</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.00606398179375,43.26352911734054,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>тур</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.00479973760219</longitude>
+					<latitude>43.2630604788564</latitude>
+					<altitude>0</altitude>
+					<heading>11.41984080344044</heading>
+					<tilt>33.36711300692982</tilt>
+					<range>463.5068338169027</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id27</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.00386782294221,43.26266170892087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3567</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.0313931303176</longitude>
+					<latitude>43.25622233013218</latitude>
+					<altitude>0</altitude>
+					<heading>11.41983649620664</heading>
+					<tilt>33.36708988206039</tilt>
+					<range>458.8237195360596</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id25</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.03109510971705,43.25631778459152,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3650</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.0370204284571</longitude>
+					<latitude>43.25544291177798</latitude>
+					<altitude>0</altitude>
+					<heading>11.41983159789944</heading>
+					<tilt>33.36706358554353</tilt>
+					<range>453.4982170406092</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id26</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.03710732448095,43.25548562950129,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3291</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.98757550798779</longitude>
+					<latitude>43.26221704619901</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3727369280523829</heading>
+					<tilt>57.47184907852879</tilt>
+					<range>262.0174958208609</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id23</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.98759435605837,43.26226168774229,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 6</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Сарынтау (Авиации) (1А*, 3810)</name>
+				<visibility>0</visibility>
+				<Style>
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>42.95757997781038,43.26448000967503,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>в. Сарынтау (4060)</name>
+				<visibility>0</visibility>
+				<styleUrl>#failed512</styleUrl>
+				<Point>
+					<coordinates>42.95965,43.26974,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>4054</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.95965363363537</longitude>
+					<latitude>43.26981450935886</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3264714320686616</heading>
+					<tilt>48.85960440236583</tilt>
+					<range>278.4511294008299</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed513</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.95952870181355,43.26975184231526,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 6</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.97279398242837,43.25715388189055,0 42.97211529462883,43.25765667806999,0 42.97147573259781,43.25806232288227,0 42.97067092480295,43.25875614195809,0 42.97026403978408,43.25914515044482,0 42.96930385379982,43.25939219091398,0 42.96864245971279,43.26024249694962,0 42.96765327949759,43.26114746905999,0 42.96600090214265,43.26194447264258,0 42.96561772354551,43.26271612882244,0 42.96554688794467,43.26335437783741,0 42.96523958388199,43.2641011487941,0 42.96520208388233,43.26468471823827,0 42.96471820073098,43.26505248963617,0 42.96433890543353,43.26530815906011,0 42.96424898537447,43.26550136810599,0 42.9639840038125,43.26564621277299,0 42.96378111875151,43.26583946233332,0 42.96359236559296,43.2659712685597,0 42.96321754108477,43.26598995956685,0 42.96300454061429,43.26601408806011,0 42.96276191467767,43.26588849886998,0 42.9623582230595,43.26583155312617,0 42.96160476080969,43.26573047801358,0 42.96139381138751,43.26576763684277,0 42.9610583888339,43.26582390085839,0 42.96064593313714,43.26574617129629,0 42.96040268124717,43.26563438565558,0 42.96012596850761,43.26548055449396,0 42.95998549699447,43.26526407094298,0 42.95985739418587,43.26502816225066,0 42.95954199575905,43.26472109798014,0 42.95937437275462,43.26454640747872,0 42.95918660127693,43.26440811436711,0 42.95895144234085,43.26438344062806,0 42.95866948790287,43.26432885301365,0 42.95838655126043,43.26438832963452,0 42.95817602892301,43.26474159619743,0 42.95799694840074,43.26477161133573,0 42.95782805147567,43.26470246464569,0 42.9577264329255,43.2645828580737,0 42.95767347632012,43.26450245263708,0 42.95754509356699,43.26443274649041,0 42.95693076769304,43.26428164028311,0 42.95607599882145,43.26434030738998,0 42.95565075806043,43.26400223252508,0 42.95522016052836,43.26359178572716,0 42.95491978019417,43.26335475492108,0 42.95437487428418,43.26307333462594,0 42.95289326981093,43.26306044987251,0 42.95188101232248,43.26288460514144,0 42.95031756673819,43.26259200064171,0 42.94970111892383,43.2619569278644,0 42.94965364213571,43.26098502379385,0 42.94972495059596,43.26015183033584,0 42.9496828459403,43.25958123253741,0 42.94954516865997,43.25849164100977,0 42.9478397032462,43.25327132714734,0 42.95133974641469,43.24556321881772,0 42.95398296648858,43.24329310695259,0 42.95607422025838,43.2397663688109,0 42.95698074457192,43.23587038338023,0 42.95867977548262,43.23413951653687,0 42.96052155924799,43.2321540583087,0 42.96182146595435,43.23115558582651,0 42.96182243682286,43.23115247904937,0 42.96188576809784,43.23107341384151,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 6 (7,3+7,47=14,77) (2567)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>42.96286646337717</longitude>
+					<latitude>43.23121402167485</latitude>
+					<altitude>0</altitude>
+					<heading>-0.325555128562017</heading>
+					<tilt>53.12067295639582</tilt>
+					<range>278.1917898737274</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id21</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>42.96188802751266,43.23108573813516,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>рад. Сарынтау Гл.</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.95752130324362,43.26448696550186,0 42.95737639908924,43.26501178783818,0 42.95726186923792,43.26527579476847,0 42.95733039538511,43.26561733436999,0 42.95724952205659,43.26594061923728,0 42.95758019968044,43.26632538876697,0 42.95780784342472,43.26647142503683,0 42.95787365869268,43.26667799973988,0 42.95822405038436,43.26716229713214,0 42.95838058150542,43.26766692982589,0 42.95861573320086,43.26797721127201,0 42.95881346108786,43.26828878350597,0 42.9589179061555,43.26853482070298,0 42.95902636196371,43.2687780786361,0 42.95907674489016,43.26891791470858,0 42.95907179414735,43.26907846662428,0 42.95917994517799,43.26921964781421,0 42.95933748237579,43.26938878189066,0 42.95949743183388,43.26952579601942,0 42.95952653935933,43.26961019485022,0 42.95951740261473,43.26974220925732,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 7</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Путь день 7</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						42.9618805694315,43.23109354662924,0 42.96234165543884,43.23034748939862,0 42.9623087296257,43.22986305822415,0 42.96325236026813,43.22939591445623,0 42.96412543982672,43.22861812743846,0 42.96560823747185,43.22811319947306,0 42.96624516307013,43.22754365695331,0 42.96818954661313,43.22591370689508,0 42.96906717729423,43.2252212629687,0 42.96963665831541,43.2248764376848,0 42.97056223927729,43.22461982451781,0 42.97130075928835,43.22419190501307,0 42.97210142703813,43.2236276121158,0 42.97263444049938,43.22323232689062,0 42.97286626214864,43.22236120993279,0 42.97331194433249,43.22177781065754,0 42.97429808460857,43.22062330534752,0 42.97502085815997,43.21917053023322,0 42.9759882924037,43.21799754052021,0 42.97684638421364,43.21669818571301,0 42.97809009405178,43.21554474755004,0 42.9787089338916,43.21521175687641,0 42.97911190358523,43.21481417143141,0 42.97951286299259,43.21450032760259,0 42.97982865481824,43.21425642366651,0 42.9802202374665,43.21401777643676,0 42.98047120916127,43.21369529973282,0 42.98061359751154,43.21329103810782,0 42.98133896628978,43.21260985680597,0 42.98204688865197,43.21199996727703,0 42.98244268525355,43.21158360451575,0 42.98301802005772,43.21090403509771,0 42.98330769560607,43.21036627627138,0 42.98386715614632,43.20969738182973,0 42.98428575652154,43.20844466517124,0 42.98619482304139,43.20721258674686,0 42.98825977547462,43.20759218795825,0 42.991598288613,43.20808727619139,0 42.99828837146592,43.20854343079647,0 43.00251489720461,43.20914535212514,0 43.01033372982825,43.21005828523919,0 43.01807062545735,43.20940647743241,0 43.02457119206899,43.20890412038489,0 43.03060672510276,43.20949638148918,0 43.0395996429691,43.21022330629531,0 43.04522006578662,43.21071923256099,0 43.05271413528046,43.21048621425916,0 43.05514747323599,43.21044290102991,0 43.05511127390146,43.210123992059,0 43.05528880367402,43.20997548108232,0 43.05633933980509,43.21010466879882,0 43.05644419183581,43.2095931327067,0 43.05614129050619,43.20889721918449,0 43.05616007833051,43.2089003425247,0 43.05618246118483,43.20818601934448,0 43.05651125688119,43.2073789172215,0 43.05614501339333,43.20652366432604,0 43.0560186190966,43.20592388915697,0 43.05624392259452,43.20538795020127,0 43.05590067255353,43.20454884563483,0 43.05535113355292,43.20355203993309,0 43.05512969581515,43.20293779836982,0 43.05529413339792,43.20258026501791,0 43.05516421149869,43.20212649830903,0 43.05461452940075,43.2010110628388,0 43.05468905920844,43.1987227146205,0 43.05435799181431,43.19717139380978,0 43.05439730627256,43.19710588139646,0 43.05291405123545,43.1957267175972,0 43.0518164829351,43.19420829739814,0 43.05118788704453,43.19260470736769,0 43.05070076441707,43.19182751638956,0 43.04992029009848,43.19058766498885,0 43.04945293011259,43.19092242115433,0 43.04802006261859,43.19028742730436,0 43.04679849767027,43.18917094602506,0 43.04198662755439,43.18420227158637,0 43.04228818532265,43.18249946870203,0 43.04200021068691,43.18154624778421,0 43.04138616675161,43.18078778284817,0 43.03855840758557,43.1789249760542,0 43.03678983063472,43.17773481348344,0 43.03468765110403,43.17672903689282,0 43.03402373593241,43.17569873201916,0 43.03394003598442,43.17487322257431,0 43.03386917343146,43.17428164539075,0 43.03251943852365,43.17394041492621,0 43.03255569603419,43.17384621204808,0 43.03181407372612,43.17317910144492,0 43.03011937259431,43.17103412400351,0 43.02932195844191,43.16987266782157,0 43.02830852222686,43.16917593242157,0 43.02654313174708,43.16717934663083,0 43.02593505179657,43.1668449886575,0 43.02483271183553,43.16621767432861,0 43.02430185514321,43.16550183051837,0 43.02416127118719,43.16511872857721,0 43.02418190588196,43.1650842646849,0 43.0239828487086,43.16454806631452,0 43.0237368913464,43.16369820546023,0 43.023571698826,43.16324696201337,0 43.02357729357906,43.16263438695958,0 43.02367565342747,43.16235241748455,0 43.02377036570596,43.1622393512432,0 43.02395123392478,43.16229905974993,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Авт. мост</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.05589786112435</longitude>
+					<latitude>43.21083520132284</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1402997705949412</heading>
+					<tilt>60.00368317318968</tilt>
+					<range>473.5765905063541</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed510</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.05510291819929,43.21019178072575,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>1849</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.05580120849491</longitude>
+					<latitude>43.21059253031043</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1403659402133725</heading>
+					<tilt>60.00379385951415</tilt>
+					<range>487.8079623761813</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed511</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.0555059215552,43.21005943601774,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>День 7 (15,6+2,84=18,44) (2133)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.02407516699959</longitude>
+					<latitude>43.16233022648042</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1560930359881185</heading>
+					<tilt>58.13884939933389</tilt>
+					<range>117.0008631648803</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#failed51</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.02395599507522,43.16230618549182,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 8</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>День 8 (6,52+12,07=18,59) (3339)</name>
+				<visibility>0</visibility>
+				<styleUrl>#stylemap_id33</styleUrl>
+				<Point>
+					<coordinates>43.06816502474248,43.13064901158214,3343.088378999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 8</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin9</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.02395551438303,43.16230913454147,0 43.02368408440562,43.16215171614483,0 43.02365250145699,43.16205465039875,0 43.02365288730696,43.16170535864527,0 43.02351535602593,43.16123834270337,0 43.02333698143458,43.16079495427364,0 43.02323026354193,43.15947293136458,0 43.02318147408326,43.15926524019128,0 43.02318685823526,43.15925146273074,0 43.02216678908781,43.15894590896106,0 43.02154197530426,43.15846277675993,0 43.02106141889227,43.15723626691917,0 43.021174283868,43.15602138949274,0 43.02069556970118,43.15488653158415,0 43.02111659581461,43.15401758422948,0 43.0216195630104,43.15321682663051,0 43.02206993422508,43.15074459268909,0 43.02260934923912,43.14995484215177,0 43.02388886320968,43.14885644986208,0 43.02536270666677,43.14776225273928,0 43.02651997793971,43.14627547560063,0 43.0272722540158,43.14520783242295,0 43.02829426138771,43.14339109321362,0 43.02902828803136,43.14200340921843,0 43.02961907620775,43.14132984061307,0 43.0299341758881,43.14111113179239,0 43.03025812782342,43.14058517602421,0 43.03049902377509,43.14024842055548,0 43.03205636257011,43.13790062280689,0 43.03457399205448,43.13674606245393,0 43.03621103933028,43.13645858931249,0 43.03733765517939,43.13592855333265,0 43.03868582692653,43.13529712621431,0 43.04153290293128,43.13435548419516,0 43.0427269795978,43.13382484859491,0 43.04546351708923,43.13283886563711,0 43.04880814575866,43.13029101833899,0 43.05205663626069,43.12792759911066,0 43.05530143577063,43.12805169850908,0 43.05663163547985,43.12825205110142,0 43.05933209515087,43.12894329904245,0 43.06078657079572,43.12962565592866,0 43.06156816147847,43.13014336911655,0 43.06207002949274,43.13085397935847,0 43.06247606584861,43.13119648868515,0 43.06299353908971,43.1312692127643,0 43.06362098559447,43.13143417694539,0 43.06397457314792,43.13119727337128,0 43.06424324836969,43.13114864441369,0 43.0652934308736,43.13075346122462,0 43.06617183837851,43.13078966865209,0 43.06714829748564,43.13078884890874,0 43.06812320736934,43.1306457219202,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Подъем на моренный вал (3135)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.06094100000485</longitude>
+					<latitude>43.13321572637687</latitude>
+					<altitude>0</altitude>
+					<heading>1.973664762535054</heading>
+					<tilt>59.55807921711032</tilt>
+					<range>1184.237445005065</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id32</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.06055118060436,43.12946066365927,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>в. Булунгу (3820)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>43.08224818239484</longitude>
+					<latitude>43.13497685544147</latitude>
+					<altitude>0</altitude>
+					<heading>19.4450548304139</heading>
+					<tilt>37.24461173001559</tilt>
+					<range>292.3153784422305</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id330</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.08167615327425,43.13469888773809,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 9</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Тютюргу Зап. (1А, 3733)</name>
+				<visibility>0</visibility>
+				<Style>
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>43.08037997223437,43.13663000240922,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 9</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.06811456863643,43.13064723654048,0 43.06842451009313,43.13071545299835,0 43.06856759107899,43.13091774093453,0 43.06842378270245,43.13119852335516,0 43.06832507660001,43.13154304591994,0 43.06895132168318,43.13184893098608,0 43.06978971802645,43.13229574158137,0 43.07073548741442,43.13273017354257,0 43.07178102389483,43.13343343903511,0 43.07269991780373,43.13360824777074,0 43.07354267096101,43.13387145473869,0 43.07541530457947,43.13438095304382,0 43.07705780038332,43.13488484299578,0 43.07893137179123,43.13541520517713,0 43.07897813188642,43.13539356406032,0 43.08019341771224,43.13611119207759,0 43.08035718644779,43.1367375904326,0 43.08052855170715,43.1370988275123,0 43.08107043567092,43.13738120953703,0 43.08166294269008,43.13769159246932,0 43.08238476964373,43.13807903019189,0 43.08307531111114,43.13829846965042,0 43.08416103539923,43.13863139375589,0 43.08562540393029,43.13875214130671,0 43.08800993353162,43.139576184463,0 43.08981659431188,43.14061961354427,0 43.09236289473917,43.14165041766971,0 43.09438058284828,43.14245845665292,0 43.09481887036042,43.14245647308839,0 43.09576866660729,43.14276006641701,0 43.09656079950291,43.14323293232243,0 43.09753165048494,43.14341460829381,0 43.09900538226681,43.14372220720271,0 43.09987570267827,43.14372089458777,0 43.10050872279541,43.14339788450147,0 43.10074960412371,43.14316225810234,0 43.10184162438695,43.14305834996689,0 43.10345906760569,43.14319832100511,0 43.10435621236829,43.14348385722609,0 43.1052729523709,43.14375467796762,0 43.10633017005392,43.14381952117755,0 43.10719528226976,43.14395097267165,0 43.1074793308262,43.14397987897829,0 43.10858722170927,43.14402879158217,0 43.10877719771772,43.14415757122492,0 43.10915304347741,43.14452002819152,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 9 (4,41+4,81=9,22) (3177)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.10873966206484</longitude>
+					<latitude>43.14474902336011</latitude>
+					<altitude>0</altitude>
+					<heading>2.002789872489058</heading>
+					<tilt>58.53895921915127</tilt>
+					<range>192.8600778440652</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id30</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.10916629084492,43.14452493771958,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>рад. в. Булунгу (3820)</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin0</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.08038587869555,43.13660025445764,0 43.080464589251,43.13651556082364,0 43.0805260455175,43.13635767867979,0 43.0805867731246,43.13624087952805,0 43.08060024862098,43.13622563737987,0 43.08067821516122,43.13607282680825,0 43.08073380383307,43.13597585912046,0 43.08076612347503,43.1358706802903,0 43.08078269731171,43.13575246050164,0 43.08081157726067,43.13549915913653,0 43.08083078797812,43.1353480285263,0 43.0808657258739,43.13524458956918,0 43.08089488188395,43.13520861615327,0 43.08099422342382,43.1351479760642,0 43.08116701344951,43.13500857487905,0 43.08126333916833,43.1349162520669,0 43.08139084643302,43.13486211062591,0 43.08151117197243,43.1347959107184,0 43.08162490492163,43.13474766397433,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 10</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Илипсар (н/к, 3015)</name>
+				<visibility>0</visibility>
+				<Style>
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>43.15096003934741,43.19844000041485,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>пер. Коргашиль Сев. (1А, 3417)</name>
+				<visibility>0</visibility>
+				<Style>
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>43.12776999548078,43.1587400380522,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 10</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.10920464722572,43.14450183498657,0 43.10962073702171,43.14520482530842,0 43.1109591225586,43.14575002600647,0 43.11207735136711,43.14621066349952,0 43.11297175545673,43.14698663616778,0 43.11287725751533,43.14759150830132,0 43.11348670504609,43.14765747266763,0 43.11497638579601,43.14924577208586,0 43.11988526910503,43.15376637227042,0 43.12780714418297,43.15877943853287,0 43.1287980848648,43.15976768515272,0 43.12933458478547,43.16142465287152,0 43.12840376126325,43.16373780234294,0 43.12902559798998,43.16631081260483,0 43.13018821164695,43.16869821434828,0 43.1302771640304,43.16874415335601,0 43.13193314672824,43.17102291735364,0 43.1330811922319,43.17286690310805,0 43.13466620153862,43.17547298575902,0 43.13813116051756,43.18112550251693,0 43.14011435089182,43.18340195500105,0 43.14068165371314,43.18545552950003,0 43.14048340282144,43.18714279381818,0 43.13993929564872,43.18812626432822,0 43.14039234606324,43.18921105481023,0 43.14122110932496,43.19120111703505,0 43.14211214839261,43.19091276164483,0 43.14211558066875,43.19175366293558,0 43.14276256097249,43.19226378050906,0 43.14662389922655,43.19219272441906,0 43.14855122416098,43.19302602868809,0 43.14929917257542,43.19422430254371,0 43.14995899295885,43.19666692558281,0 43.1507340171224,43.19850286731217,0 43.15229169416786,43.19893761418066,0 43.15435978216296,43.19932426572765,0 43.15596517103072,43.19969002250905,0 43.15757329320345,43.19992217896218,0 43.1581200002198,43.19984165929272,0 43.15840077301682,43.20028728280796,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 10 (8,2+5,45=13,65) (2806)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.159163913901</longitude>
+					<latitude>43.20087241368198</latitude>
+					<altitude>0</altitude>
+					<heading>-0.8074107875450914</heading>
+					<tilt>60.00268871176713</tilt>
+					<range>345.7573155167059</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id31</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.15842809562833,43.20028398990219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2710</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.13984854618487</longitude>
+					<latitude>43.189711323636</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7974516562998361</heading>
+					<tilt>60.0022864814575</tilt>
+					<range>294.0295829319217</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id34</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.14008434451254,43.18904274106444,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 11</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>пер. Ширман Сев. (1А, 3450)</name>
+				<visibility>0</visibility>
+				<Style>
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+						</Icon>
+					</IconStyle>
+				</Style>
+				<Point>
+					<coordinates>43.17904000170529,43.19598997011781,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Путь день 11</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin8</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.15838830048739,43.20027702467895,0 43.15863596162934,43.20067777062492,0 43.15909644600641,43.20089045975828,0 43.15995560867654,43.20080356529312,0 43.16052028165451,43.20061164539145,0 43.16119630018415,43.20048633169827,0 43.16176032909515,43.20058608223191,0 43.16203529605976,43.20070165233125,0 43.16266771316113,43.20084600335687,0 43.1632323366679,43.20081679445187,0 43.16381282428829,43.20094411022961,0 43.16450099696206,43.20105668327962,0 43.16517288630628,43.20103557673925,0 43.16576647411505,43.20031737476965,0 43.16639771049953,43.19983677405703,0 43.16749006439289,43.19939708152157,0 43.16825089626419,43.19890533866427,0 43.16908183665175,43.19887308857766,0 43.16986385393714,43.1989599454389,0 43.17024887444763,43.19895183460183,0 43.17096698376944,43.19886013695857,0 43.17168224904565,43.19890463300619,0 43.17233576398245,43.19873902522441,0 43.17359745055151,43.19837473436549,0 43.17457898583696,43.19789504999264,0 43.17599157169774,43.19767331864024,0 43.17671376081915,43.19751217450451,0 43.17709625499904,43.19682579066866,0 43.17732391342947,43.19658631372165,0 43.17734210972638,43.19654724316514,0 43.17760319802362,43.19645581786161,0 43.17777559844618,43.19617732736192,0 43.17822547272449,43.19600839289886,0 43.17876517872957,43.19585959100386,0 43.17884592364804,43.19578578840768,0 43.17893457455432,43.19574958470497,0 43.17901618016483,43.19579657009433,0 43.17904901801882,43.19587146824399,0 43.17904536367887,43.19600986245771,0 43.17928673181135,43.19597537369587,0 43.17994012217481,43.19618374208634,0 43.18060621824853,43.19636098847335,0 43.18114020674579,43.1964026640586,0 43.18200771090488,43.19630706086737,0 43.18262745681538,43.19613142082834,0 43.18360773988738,43.19609433041727,0 43.18451916788604,43.1960230174437,0 43.18575836083559,43.19575990585216,0 43.1878415449525,43.19527879474394,0 43.190217308054,43.19471796709515,0 43.19223686137973,43.19452939897089,0 43.19322764577606,43.19470219574829,0 43.19436707882352,43.19480531012397,0 43.19586062871007,43.19508999129172,0 43.1969529988827,43.19569712369592,0 43.19985070758595,43.19733283445194,0 43.20141974118754,43.19750995354347,0 43.20152868518933,43.1975609717375,0 43.2046679005139,43.1984959736134,0 43.20712063949522,43.19951757717209,0 43.20883884455477,43.20087891432974,0 43.21026163311888,43.20156005833833,0 43.21256930437674,43.20341023628374,0 43.21614350293108,43.20446582513449,0 43.2213254883667,43.20468504635429,0 43.22830459573893,43.20399285540476,0 43.23093706444421,43.20368545580881,0 43.23400804328938,43.20416358369089,0 43.23569574774609,43.20431036098152,0 43.23579320673908,43.20416139175565,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>День 11 (7+6,44=13,44) (1976)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-09-18T13:14:32Z</when>
+</gx:TimeStamp>
+					<longitude>43.23746139871481</longitude>
+					<latitude>43.20541256714195</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7298710803138291</heading>
+					<tilt>60.0061401666912</tilt>
+					<range>789.5100473945062</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id36</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.2358297011897,43.2041560611875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>3273</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-09-18T13:14:32Z</when>
+</gx:TimeStamp>
+					<longitude>43.19782638362054</longitude>
+					<latitude>43.20175768386712</latitude>
+					<altitude>0</altitude>
+					<heading>-0.7494141424160182</heading>
+					<tilt>60.01252656593785</tilt>
+					<range>1610.911806881138</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.1963058753268,43.19528579832514,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>День 12</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Placemark>
+				<name>Путь день 12</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						43.23572198687268,43.20437491440541,0 43.23797790443913,43.20386307561083,0 43.24153551143974,43.20307082527353,0 43.24492601353342,43.20242630580287,0 43.24738369836359,43.20208447203398,0 43.2488560451482,43.20279597480807,0 43.25421122128886,43.20173657462721,0 43.26013551908191,43.20423135547514,0 43.27085141048032,43.20734838089722,0 43.27503056923008,43.20940204091882,0 43.27738892124645,43.20951362797405,0 43.27950882505439,43.21038363594228,0 43.28014954743148,43.21101543706949,0 43.27997755900278,43.21160630872376,0 43.28030761084532,43.21216964816677,0 43.28352867622204,43.21367042650073,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Финиш (4,4) (1443)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<gx:TimeStamp><when>2019-07-25T23:08:30Z</when>
+</gx:TimeStamp>
+					<longitude>43.28302547152846</longitude>
+					<latitude>43.21404977293705</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3329165346286584</heading>
+					<tilt>60.00408755816319</tilt>
+					<range>525.5344716425011</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#stylemap_id35</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>43.28357104197922,43.21368460647337,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
