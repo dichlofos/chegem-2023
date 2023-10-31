@@ -196,12 +196,12 @@ TODO
 
 ## 1.9 Ссылки на материалы отчета
 
-- Мастер-версия отчёта для чтения: [github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md](https://github.com/dichlofos/gvandra-2021/blob/master/report_gvandra_2021.md), перегенерируется с помощью скрипта `generate_all.sh`
-- Исходный код отчёта: [github.com/dichlofos/gvandra-2021/blob/master/source_report_gvandra_2021.md](https://github.com/dichlofos/gvandra-2021/blob/master/source_report_gvandra_2021.md) (туда вносятся все исправления и дополнения, в том числе после отправки отчёта в МКК)
-- Репозиторий на GitHub с материалами отчёта: [github.com/dichlofos/gvandra-2021/](https://github.com/dichlofos/gvandra-2021/) (треки, фото, отчёты, использованные при подготовке, карты)
+- Мастер-версия отчёта для чтения: [github.com/dichlofos/chegem-2023/blob/master/report_chegem_2023.md](https://github.com/dichlofos/chegem-2023/blob/master/report_chegem_2023.md), перегенерируется с помощью скрипта `generate_all.sh`
+- Исходный код отчёта: [github.com/dichlofos/chegem-2023/blob/master/source_report_chegem_2023.md](https://github.com/dichlofos/chegem-2023/blob/master/source_report_chegem_2023.md) (туда вносятся все исправления и дополнения, в том числе после отправки отчёта в МКК)
+- Репозиторий на GitHub с материалами отчёта: [github.com/dichlofos/chegem-2023/](https://github.com/dichlofos/chegem-2023/) (треки, фото, отчёты, использованные при подготовке, карты)
 
 ## 1.10 Сведения о выпускающей МКК
-Группа выпущена на маршрут МКК Клуба туристов МГУ им. М.В. Ломоносова в составе Зеленцова&nbsp;Д.Ю., Зеленцовой&nbsp;Е.В., Варгафтика&nbsp;Г.М.
+Группа выпущена на маршрут МКК Клуба туристов МГУ им. М.В. Ломоносова в составе Зеленцова~Д.Ю., Мукаилова~С.И., Варгафтика~Г.М.
 
 Полномочия МКК по выпуску – до четвёртой к.с. включительно.
 
@@ -218,6 +218,8 @@ TODO
 - Термины &laquo;левый&raquo; и &laquo;правый&raquo; означают &laquo;орографически левый&raquo; и &laquo;орографически правый&raquo;, если не указано обратное
 
 ## 2.1 Идея проведения похода и подготовка к нему
+
+
 В этом году мы хотели привести в жизнь неосуществленную в прошлом году из-за эпидемии
 идею похода по Киргизскому хребту Тянь-Шаня в районе альплагеря Ала-Арча, уже в виде 3 к.с.
 
