@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+
+import typing as tp
+from pathlib import Path
+import shutil
+
 import glob
 import tqdm
 import os
@@ -27,15 +33,19 @@ def _get_time(point):
     return ""
 
 
-def _get_track_list(current_directory="."):
+def _get_track_list(output_file_name, current_directory="."):
     glob_path = os.path.join(current_directory, "*.gpx")
-    return sorted(file_name for file_name in glob.glob(glob_path))
+    output_path = Path(output_file_name).resolve()
+    return sorted(file_name for file_name in glob.glob(glob_path) if Path(file_name).resolve() != output_path)
 
 
-def _merge_tracks(left_file_name: str, right_file_name: str, output_file_name: str = left_file_name):
+def _merge_tracks(left_file_name: str, right_file_name: str, output_file_name: tp.Optional[str]=None):
     """
     Merge `right_file_name` track data into `left_file_name` track data
     """
+    if output_file_name is None:
+        output_file_name = left_file_name
+
     print(f"Merging {left_file_name} with {right_file_name} into {output_file_name}...")
 
     left_tree = ET.parse(left_file_name)
@@ -46,7 +56,7 @@ def _merge_tracks(left_file_name: str, right_file_name: str, output_file_name: s
 
     all_left_trks = left_root.findall("g:trk", ns)
     if len(all_left_trks) > 1:
-        raise Exception("More than one `trk` in file. ")
+        raise Exception(f"More than one `trk` in file {left_file_name}. ")
 
     right_segments = right_root.findall("g:trk/g:trkseg", ns)
 
@@ -70,7 +80,7 @@ def _merge_tracks(left_file_name: str, right_file_name: str, output_file_name: s
 
     added_waypoints = 0
     for wpt in right_root.iterfind("g:wpt", ns):
-        added_waypoints + 1
+        added_waypoints += 1
         left_root.append(wpt)
 
     print(f"Merged {added_waypoints} waypoints")
@@ -88,12 +98,25 @@ def main():
     parser.add_argument("-n", "--dry-run", help="Dry run: do not write anything, just calc some stats", required=False, default=False)
 
     args = parser.parse_args()
+    output_file_name = args.output
 
-    tracks = _get_track_list()
-    if len(tracks) > 2:
-        main_track_name = tracks[0]
-        for track_name in tracks[1:]:
-            _merge_tracks(main_track_name, track_name, output_track_name)
+    if not args.dry_run:
+        Path(output_file_name).unlink(missing_ok=True)
+
+    track_file_names = _get_track_list(output_file_name)
+    print("Source files:")
+    for track in track_file_names:
+        print(f"  Source: {track}")
+
+    if len(track_file_names) > 2:
+        # copy first track "as is"
+        shutil.copy(track_file_names[0], output_file_name)
+        # merge all other tracks into it
+        for track_name in track_file_names[1:]:
+            _merge_tracks(
+                left_file_name=output_file_name,
+                right_file_name=track_name,
+            )
 
     sys.exit(1)
 
