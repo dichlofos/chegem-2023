@@ -2,6 +2,7 @@ import glob
 import tqdm
 import os
 import sys
+import argparse
 
 import xml.etree.ElementTree as ET
 from geopy import distance as gd
@@ -31,23 +32,17 @@ def _get_track_list(current_directory="."):
     return sorted(file_name for file_name in glob.glob(glob_path))
 
 
-def _merge_tracks():
-    pass
+def _merge_tracks(left_file_name: str, right_file_name: str, output_file_name: str = left_file_name):
+    """
+    Merge `right_file_name` track data into `left_file_name` track data
+    """
+    print(f"Merging {left_file_name} with {right_file_name} into {output_file_name}...")
 
-
-def main():
-    ET.register_namespace("g", _NS)
-    ET.register_namespace("", _NS)
-
-    tracks = _get_track_list()
-
-    left_tree = ET.parse("waypt.gpx")
-    right_tree = ET.parse("t2.gpx")
+    left_tree = ET.parse(left_file_name)
+    right_tree = ET.parse(right_file_name)
     left_root = left_tree.getroot()
     right_root = right_tree.getroot()
     ns = {"g": _NS}
-
-
 
     all_left_trks = left_root.findall("g:trk", ns)
     if len(all_left_trks) > 1:
@@ -80,7 +75,25 @@ def main():
 
     print(f"Merged {added_waypoints} waypoints")
 
-    left_tree.write("merged.gpx", encoding="UTF-8")
+    left_tree.write(output_file_name, encoding="UTF-8")
+
+
+
+def main():
+    ET.register_namespace("g", _NS)
+    ET.register_namespace("", _NS)
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-o", "--output", help="Output track name", required=False, default="_output.gpx")
+    parser.add_argument("-n", "--dry-run", help="Dry run: do not write anything, just calc some stats", required=False, default=False)
+
+    args = parser.parse_args()
+
+    tracks = _get_track_list()
+    if len(tracks) > 2:
+        main_track_name = tracks[0]
+        for track_name in tracks[1:]:
+            _merge_tracks(main_track_name, track_name, output_track_name)
 
     sys.exit(1)
 
