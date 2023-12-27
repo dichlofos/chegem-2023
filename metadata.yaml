@@ -1,0 +1,9 @@
+---
+colorlinks: true
+header-includes:
+    - \newcommand{\hideFromPandoc}[1]{#1}
+        \hideFromPandoc{
+            \let\Begin\begin
+            \let\End\end
+        }
+---
