@@ -73,6 +73,8 @@ _TEST_TEXT = (
 
 
 def _load_photos():
+    return {}  # disabled
+
     photos = {}
     photos_by_day = {}
 
@@ -214,7 +216,7 @@ def _post_processing(photos, source_report_text, report_name, output_report_name
     report_text = report_text.replace('\r', '')
 
     # report_text = _replace_photo_blocks(photos_by_day, report_text)
-    report_text = _replace_photo_links(photos, report_text)
+    # report_text = _replace_photo_links(photos, report_text)
 
     # write output
     with open(output_report_name, 'w', encoding='utf-8') as f:
@@ -234,7 +236,7 @@ def main():
     # regex test
     # assert _TEST_TEXT in source_report_text
 
-    photos, photos_by_day = _load_photos()
+    # photos, photos_by_day = _load_photos()
 
     source_report_text = source_report_text.replace('\r', '')
     source_report_text = source_report_text.replace('~', '&nbsp;')
@@ -246,7 +248,7 @@ def main():
     kosher_source_lines = []
     in_segment_table = False
 
-    
+
     for line in source_lines:
 
         kosher_line = line
@@ -260,6 +262,7 @@ def main():
             if 'ЧХВ' in line:
                 in_segment_table = True
 
+            """
             if in_segment_table:
                 if '-|-' in line:
                     line = "-----|-|-|-|-----"
@@ -270,6 +273,7 @@ def main():
                 # remove unnecessary info for champ
                 kosher_line = '|'.join(cols[0:3] + [cols[4]])
                 print(kosher_line)
+            """
         else:
             if in_segment_table:
                 in_segment_table = False
@@ -294,7 +298,7 @@ def main():
     _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD)
     _post_processing(photos, md_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD, write_source=False)
     _post_processing(photos, pdf_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_PDF, write_source=False)
-    _post_processing(photos, ch_report_text, _REPORT_NAME_CH, _OUTPUT_REPORT_NAME_CH)
+    _post_processing(photos, ch_report_text, _REPORT_NAME_CH, _OUTPUT_REPORT_NAME_CH, write_source=False)
 
 
 if __name__ == "__main__":
