@@ -2,9 +2,7 @@
 set -xe
 python3 preprocess.py pandoc
 
-trip_name="gvandra_2021"
-
-
+trip_name="chegem_2023"
 
 pandoc report_${trip_name}_pdf.md metadata.yaml \
     -V mainfont="Liberation Serif" \

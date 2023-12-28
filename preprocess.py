@@ -73,7 +73,7 @@ _TEST_TEXT = (
 
 
 def _load_photos():
-    return {}  # disabled
+    return {}, {}  # disabled
 
     photos = {}
     photos_by_day = {}
@@ -236,7 +236,7 @@ def main():
     # regex test
     # assert _TEST_TEXT in source_report_text
 
-    # photos, photos_by_day = _load_photos()
+    photos, photos_by_day = _load_photos()
 
     source_report_text = source_report_text.replace('\r', '')
     source_report_text = source_report_text.replace('~', '&nbsp;')
@@ -295,7 +295,7 @@ def main():
     assert "@@BEGIN" not in pdf_report_text
     assert "@@END" not in pdf_report_text
 
-    _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD)
+    # _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD)
     _post_processing(photos, md_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD, write_source=False)
     _post_processing(photos, pdf_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_PDF, write_source=False)
     _post_processing(photos, ch_report_text, _REPORT_NAME_CH, _OUTPUT_REPORT_NAME_CH, write_source=False)
