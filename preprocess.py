@@ -18,7 +18,7 @@ _OUTPUT_REPORT_NAME_MD = "report_chegem_2023.md"
 # PDF, for site/upload
 _OUTPUT_REPORT_NAME_PDF = "report_chegem_2023_pdf.md"
 # PDF, for champ
-_OUTPUT_REPORT_NAME_CH = "report_chegem_2021_ch.md"
+_OUTPUT_REPORT_NAME_CH = "report_chegem_2023_ch.md"
 
 _PANDOC = len(sys.argv) > 1 and sys.argv[1] == "pandoc"
 
