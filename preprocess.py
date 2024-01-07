@@ -38,6 +38,17 @@ def _read_file(file_name):
     return text
 
 
+def _write_file(file_name, contents):
+    with open(report_name, 'w', encoding='utf-8') as f:
+        f.write(contents)
+
+
+def _tex_preprocess(text: str):
+    text = text.replace('~', '&nbsp;')
+    return text
+
+
+
 _TEST_TEXT = (
     """GPS), примеченном в походе 2019 года. От Ворошиловских кошей до места ночевки дошли за 1 час 7 минут ЧХВ.
 
@@ -206,13 +217,12 @@ def _replace_photo_links(photos, report_text):
 def _post_processing(photos, source_report_text, report_name, output_report_name, write_source=True):
 
     if write_source:
+
         # write fixed source
         print("Source fixed, writing output to", report_name)
-        with open(report_name, 'w', encoding='utf-8') as f:
-            f.write(source_report_text)
+        _write_file(report_name, source_report_text)
 
     report_text = source_report_text
-    # report_text =  _TEST_TEXT
     report_text = report_text.replace('\r', '')
 
     # report_text = _replace_photo_blocks(photos_by_day, report_text)
@@ -239,7 +249,6 @@ def main():
     photos, photos_by_day = _load_photos()
 
     source_report_text = source_report_text.replace('\r', '')
-    source_report_text = source_report_text.replace('~', '&nbsp;')
     #source_report_text = _replace_photo_blocks(photos_by_day, source_report_text)
 
     # fix times in tables
@@ -294,6 +303,10 @@ def main():
     pdf_report_text = re.sub(r'<!--@@BEGIN.MD.-->.*<!--@@END.MD.-->', '', pdf_report_text, flags=re.DOTALL)
     assert "@@BEGIN" not in pdf_report_text
     assert "@@END" not in pdf_report_text
+
+    md_report_text = _tex_preprocess(md_report_text)
+    pdf_report_text = _tex_preprocess(pdf_report_text)
+    ch_report_text = _tex_preprocess(ch_report_text)
 
     # _post_processing(photos, source_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD)
     _post_processing(photos, md_report_text, _REPORT_NAME, _OUTPUT_REPORT_NAME_MD, write_source=False)
