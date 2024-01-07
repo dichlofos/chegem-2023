@@ -1,0 +1,618 @@
+    <wpt lat="43.387162" lon="42.930513">
+        <ele>1433.502319</ele>
+        <time>2023-07-03T07:46:07Z</time>
+        <name>П1</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.386193" lon="42.931860">
+        <ele>1448.158081</ele>
+        <time>2023-07-03T08:01:28Z</time>
+        <name>БРОД-1</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.380280" lon="42.928602">
+        <ele>1499.742065</ele>
+        <time>2023-07-03T08:20:16Z</time>
+        <name>П2</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.379408" lon="42.928700">
+        <ele>1516.188477</ele>
+        <time>2023-07-03T09:01:13Z</time>
+        <name>ПОВОРОТ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.377059" lon="42.929092">
+        <ele>1528.620117</ele>
+        <time>2023-07-03T09:50:29Z</time>
+        <name>БРОД-2</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.373187" lon="42.931035">
+        <ele>1630.630127</ele>
+        <time>2023-07-03T10:14:53Z</time>
+        <name>П3</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.368748" lon="42.935656">
+        <ele>1693.061401</ele>
+        <time>2023-07-03T10:46:06Z</time>
+        <name>БРОД-3</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.368395" lon="42.937139">
+        <ele>1713.509033</ele>
+        <time>2023-07-03T10:56:59Z</time>
+        <name>БРОД-4</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.369240" lon="42.937363">
+        <ele>1747.843384</ele>
+        <time>2023-07-03T11:14:42Z</time>
+        <name>ПО4</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.365226" lon="42.941519">
+        <ele>1873.362183</ele>
+        <time>2023-07-03T13:11:30Z</time>
+        <name>П5</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.362939" lon="42.948562">
+        <ele>1994.189209</ele>
+        <time>2023-07-03T13:50:55Z</time>
+        <name>П6</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.360744" lon="42.956482">
+        <ele>2146.567627</ele>
+        <time>2023-07-03T14:39:55Z</time>
+        <name>П7</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.358683" lon="42.961160">
+        <ele>2204.511963</ele>
+        <time>2023-07-03T15:05:56Z</time>
+        <name>МН-1</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.358708" lon="42.961278">
+        <ele>2202.323486</ele>
+        <time>2023-07-03T17:44:00Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.355199" lon="42.960255">
+        <ele>2183.783691</ele>
+        <time>2023-07-04T04:34:00Z</time>
+        <name>БРОД-5</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.352882" lon="42.961739">
+        <ele>2249.653076</ele>
+        <time>2023-07-04T04:52:16Z</time>
+        <name>П8</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.350794" lon="42.964463">
+        <ele>2337.244385</ele>
+        <time>2023-07-04T05:33:54Z</time>
+        <name>П9</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.349280" lon="42.967149">
+        <ele>2417.936279</ele>
+        <time>2023-07-04T06:09:50Z</time>
+        <name>П9</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.345552" lon="42.969656">
+        <ele>2467.228760</ele>
+        <time>2023-07-04T06:44:59Z</time>
+        <name>БРОД-6</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.343820" lon="42.970786">
+        <ele>2488.901855</ele>
+        <time>2023-07-04T06:56:50Z</time>
+        <name>БРОДЫ-7, П10</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.337667" lon="42.975918">
+        <ele>2578.831299</ele>
+        <time>2023-07-04T07:48:14Z</time>
+        <name>П11</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.331491" lon="42.979210">
+        <ele>2666.924805</ele>
+        <time>2023-07-04T08:47:06Z</time>
+        <name>П12</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.330525" lon="42.980949">
+        <ele>2694.469727</ele>
+        <time>2023-07-04T08:57:06Z</time>
+        <name>БРОД-8</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.326229" lon="42.984747">
+        <ele>2784.432617</ele>
+        <time>2023-07-04T09:33:20Z</time>
+        <name>МН-2, ОБЕД-2</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.314292" lon="42.989272">
+        <ele>3278.709717</ele>
+        <time>2023-07-04T13:36:47Z</time>
+        <name>КОНЕЦ-РАДИАЛКИ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.324683" lon="42.989195">
+        <ele>2938.363281</ele>
+        <time>2023-07-05T05:31:59Z</time>
+        <name>П13</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.321548" lon="42.994239">
+        <ele>3079.259277</ele>
+        <time>2023-07-05T06:15:25Z</time>
+        <name>ПЕР. САКАШИЛЬ НИЖНИЙ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.320019" lon="42.999065">
+        <ele>2840.270020</ele>
+        <time>2023-07-05T07:13:14Z</time>
+        <name>П14</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.319371" lon="43.006465">
+        <ele>2689.538330</ele>
+        <time>2023-07-05T08:01:39Z</time>
+        <name>П15</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.317046" lon="43.011120">
+        <ele>2621.298340</ele>
+        <time>2023-07-05T08:33:11Z</time>
+        <name>П16</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.315352" lon="43.015970">
+        <ele>2453.616943</ele>
+        <time>2023-07-05T09:00:29Z</time>
+        <name>П17</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.310426" lon="43.016337">
+        <ele>2407.955566</ele>
+        <time>2023-07-05T09:53:54Z</time>
+        <name>П18</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.308763" lon="43.018840">
+        <ele>2328.981201</ele>
+        <time>2023-07-05T10:24:55Z</time>
+        <name>ПО19</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.307986" lon="43.018519">
+        <ele>2329.214600</ele>
+        <time>2023-07-05T12:46:56Z</time>
+        <name>ПРИЖИМ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.303849" lon="43.014875">
+        <ele>2413.832275</ele>
+        <time>2023-07-05T13:08:47Z</time>
+        <name>П20</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.297605" lon="43.012237">
+        <ele>2521.570312</ele>
+        <time>2023-07-05T14:18:58Z</time>
+        <name>БРОД-9</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.292214" lon="43.007080">
+        <ele>2671.001709</ele>
+        <time>2023-07-05T15:00:03Z</time>
+        <name>П22</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.290795" lon="43.004806">
+        <ele>2689.322510</ele>
+        <time>2023-07-05T15:20:58Z</time>
+        <name>МН-3</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.284706" lon="42.998752">
+        <ele>2799.890625</ele>
+        <time>2023-07-06T05:00:53Z</time>
+        <name>П22</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.278490" lon="42.993447">
+        <ele>2933.755371</ele>
+        <time>2023-07-06T05:31:27Z</time>
+        <name>П23</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.278671" lon="43.003059">
+        <ele>3034.522217</ele>
+        <time>2023-07-06T06:42:53Z</time>
+        <name>П24</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.277464" lon="43.004906">
+        <ele>3108.000732</ele>
+        <time>2023-07-06T07:17:52Z</time>
+        <name>П25</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.276162" lon="43.009038">
+        <ele>3220.125244</ele>
+        <time>2023-07-06T08:05:05Z</time>
+        <name>П25</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.275268" lon="43.012223">
+        <ele>3288.771729</ele>
+        <time>2023-07-06T08:35:54Z</time>
+        <name>ПО26</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.274391" lon="43.014524">
+        <ele>3388.596191</ele>
+        <time>2023-07-06T10:23:12Z</time>
+        <name>П27</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.273499" lon="43.016403">
+        <ele>3506.291504</ele>
+        <time>2023-07-06T11:32:35Z</time>
+        <name>ПЕР.КРАСНЫЕ КАМНИ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.270319" lon="43.014711">
+        <ele>3487.229980</ele>
+        <time>2023-07-06T12:06:22Z</time>
+        <name>МН-4</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.264682" lon="43.013512">
+        <ele>3558.538574</ele>
+        <time>2023-07-07T04:27:04Z</time>
+        <name>П27</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.263358" lon="43.011313">
+        <ele>3596.657715</ele>
+        <time>2023-07-07T04:51:07Z</time>
+        <name>П28</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.263321" lon="43.011423">
+        <ele>3583.974121</ele>
+        <time>2023-07-07T10:07:50Z</time>
+        <name>ОБЕД-4</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.258317" lon="43.006682">
+        <ele>3539.536377</ele>
+        <time>2023-07-07T11:40:13Z</time>
+        <name>П28</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.257908" lon="43.002168">
+        <ele>3456.286133</ele>
+        <time>2023-07-07T12:25:24Z</time>
+        <name>П29</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.256485" lon="43.000912">
+        <ele>3337.044678</ele>
+        <time>2023-07-07T12:44:31Z</time>
+        <name>П30</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.255991" lon="42.991873">
+        <ele>3250.670898</ele>
+        <time>2023-07-07T13:28:30Z</time>
+        <name>П31</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.262296" lon="42.987138">
+        <ele>3306.074463</ele>
+        <time>2023-07-07T13:57:38Z</time>
+        <name>МН-5</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.264611" lon="42.957490">
+        <ele>3821.921875</ele>
+        <time>2023-07-08T10:10:25Z</time>
+        <name>ПЕР. САРЫНТАУ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.260943" lon="42.972554">
+        <ele>3401.736572</ele>
+        <time>2023-07-08T12:12:01Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.239826" lon="42.990501">
+        <ele>2860.839844</ele>
+        <time>2023-07-08T15:24:21Z</time>
+        <name>МН-6</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.230118" lon="42.989387">
+        <ele>2690.313721</ele>
+        <time>2023-07-09T05:07:33Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.194340" lon="43.053387">
+        <ele>1965.857056</ele>
+        <time>2023-07-09T11:20:23Z</time>
+        <name>ОБЕД-5</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.179752" lon="43.040103">
+        <ele>2065.442627</ele>
+        <time>2023-07-09T14:26:16Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.1621092279" lon="43.0240042973">
+        <ele>2133.30</ele>
+        <time>2023-07-09T15:19:20Z</time>
+        <name>МН-7</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.152249" lon="43.021808">
+        <ele>2176.186035</ele>
+        <time>2023-07-10T06:11:49Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.139387" lon="43.031586">
+        <ele>2462.441650</ele>
+        <time>2023-07-10T07:47:03Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.136821" lon="43.035969">
+        <ele>2567.472900</ele>
+        <time>2023-07-10T08:18:35Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.133859" lon="43.043397">
+        <ele>2651.382568</ele>
+        <time>2023-07-10T08:50:41Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.131531" lon="43.048055">
+        <ele>2745.762451</ele>
+        <time>2023-07-10T09:20:57Z</time>
+        <name>ПО</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.131230" lon="43.048712">
+        <ele>2747.056152</ele>
+        <time>2023-07-10T11:16:30Z</time>
+        <name>БРОД-10</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.129447" lon="43.050417">
+        <ele>2808.575195</ele>
+        <time>2023-07-10T11:33:32Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.127473" lon="43.053484">
+        <ele>2934.511230</ele>
+        <time>2023-07-10T12:06:56Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.126706" lon="43.056900">
+        <ele>3044.334961</ele>
+        <time>2023-07-10T12:51:50Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.126559" lon="43.059606">
+        <ele>3112.760010</ele>
+        <time>2023-07-10T13:25:14Z</time>
+        <name>МН-8</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.127676" lon="43.064012">
+        <ele>3224.117920</ele>
+        <time>2023-07-11T05:55:27Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.128868" lon="43.066288">
+        <ele>3324.172363</ele>
+        <time>2023-07-11T06:33:27Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.131996" lon="43.068650">
+        <ele>3380.835938</ele>
+        <time>2023-07-11T07:12:38Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.134132" lon="43.072765">
+        <ele>3464.722656</ele>
+        <time>2023-07-11T07:47:52Z</time>
+        <name>ПО</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.135374" lon="43.077136">
+        <ele>3595.091309</ele>
+        <time>2023-07-11T08:31:23Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.136581" lon="43.080401">
+        <ele>3735.639404</ele>
+        <time>2023-07-11T09:14:07Z</time>
+        <name>ПЕР</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.135248" lon="43.081510">
+        <ele>3822.415283</ele>
+        <time>2023-07-11T09:55:22Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.134853" lon="43.081536">
+        <ele>3854.311279</ele>
+        <time>2023-07-11T10:14:36Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.139828" lon="43.089675">
+        <ele>3453.931152</ele>
+        <time>2023-07-11T12:22:00Z</time>
+        <name>ПО</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.143505" lon="43.097257">
+        <ele>3296.971680</ele>
+        <time>2023-07-11T13:05:36Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.145704" lon="43.102517">
+        <ele>3177.911621</ele>
+        <time>2023-07-11T13:29:15Z</time>
+        <name>МН-9</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.146267" lon="43.108799">
+        <ele>3178.942383</ele>
+        <time>2023-07-12T06:43:44Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.148809" lon="43.114700">
+        <ele>3096.727783</ele>
+        <time>2023-07-12T07:20:43Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.151985" lon="43.117915">
+        <ele>3117.409424</ele>
+        <time>2023-07-12T08:02:38Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.155034" lon="43.120888">
+        <ele>3185.505615</ele>
+        <time>2023-07-12T08:33:23Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.156602" lon="43.123301">
+        <ele>3302.889893</ele>
+        <time>2023-07-12T09:13:14Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.158915" lon="43.127445">
+        <ele>3425.931641</ele>
+        <time>2023-07-12T09:46:17Z</time>
+        <name>ПЕР</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.169386" lon="43.130751">
+        <ele>3167.794922</ele>
+        <time>2023-07-12T10:56:03Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.169404" lon="43.130725">
+        <ele>3167.457764</ele>
+        <time>2023-07-12T10:57:29Z</time>
+        <name>ПО</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.177373" lon="43.136471">
+        <ele>3014.915771</ele>
+        <time>2023-07-12T13:00:04Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.187685" lon="43.141382">
+        <ele>2739.807861</ele>
+        <time>2023-07-12T13:30:42Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.191990" lon="43.141600">
+        <ele>2811.273193</ele>
+        <time>2023-07-12T14:09:30Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.195436" lon="43.144585">
+        <ele>2923.044434</ele>
+        <time>2023-07-12T14:43:55Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.197879" lon="43.158679">
+        <ele>2904.233154</ele>
+        <time>2023-07-12T15:32:28Z</time>
+        <name>МН-10</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.201423" lon="43.163275">
+        <ele>2998.057861</ele>
+        <time>2023-07-13T05:48:12Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.199479" lon="43.169506">
+        <ele>3113.635254</ele>
+        <time>2023-07-13T06:28:26Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.197480" lon="43.175907">
+        <ele>3370.995850</ele>
+        <time>2023-07-13T07:52:16Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.196823" lon="43.177034">
+        <ele>3448.791504</ele>
+        <time>2023-07-13T08:32:15Z</time>
+        <name>П</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.196206" lon="43.177737">
+        <ele>3520.120605</ele>
+        <time>2023-07-13T09:37:14Z</time>
+        <name>П СЛАДКОЕ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.196381" lon="43.179500">
+        <ele>3580.715820</ele>
+        <time>2023-07-13T10:13:35Z</time>
+        <name>ПЕР-ШИРМАН-СЕВЕРНЫЙ</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="43.204512" lon="43.221046">
+        <ele>2265.641846</ele>
+        <time>2023-07-13T15:55:18Z</time>
+        <name>МН-11</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
