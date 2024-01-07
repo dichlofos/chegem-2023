@@ -55,19 +55,19 @@
     <wpt lat="43.365226" lon="42.941519">
         <ele>1873.362183</ele>
         <time>2023-07-03T13:11:30Z</time>
-        <name>П5</name>
+        <name>П4</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.362939" lon="42.948562">
         <ele>1994.189209</ele>
         <time>2023-07-03T13:50:55Z</time>
-        <name>П6</name>
+        <name>П5</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.360744" lon="42.956482">
         <ele>2146.567627</ele>
         <time>2023-07-03T14:39:55Z</time>
-        <name>П7</name>
+        <name>П6</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.358683" lon="42.961160">
@@ -79,7 +79,7 @@
     <wpt lat="43.358708" lon="42.961278">
         <ele>2202.323486</ele>
         <time>2023-07-03T17:44:00Z</time>
-        <name>П</name>
+        <name>П7</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.355199" lon="42.960255">
@@ -103,7 +103,7 @@
     <wpt lat="43.349280" lon="42.967149">
         <ele>2417.936279</ele>
         <time>2023-07-04T06:09:50Z</time>
-        <name>П9</name>
+        <name>П10</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.345552" lon="42.969656">
@@ -205,7 +205,7 @@
     <wpt lat="43.303849" lon="43.014875">
         <ele>2413.832275</ele>
         <time>2023-07-05T13:08:47Z</time>
-        <name>П20</name>
+        <name>П19</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.297605" lon="43.012237">
@@ -217,7 +217,7 @@
     <wpt lat="43.292214" lon="43.007080">
         <ele>2671.001709</ele>
         <time>2023-07-05T15:00:03Z</time>
-        <name>П22</name>
+        <name>П20</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.290795" lon="43.004806">
@@ -229,25 +229,25 @@
     <wpt lat="43.284706" lon="42.998752">
         <ele>2799.890625</ele>
         <time>2023-07-06T05:00:53Z</time>
-        <name>П22</name>
+        <name>П21</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.278490" lon="42.993447">
         <ele>2933.755371</ele>
         <time>2023-07-06T05:31:27Z</time>
-        <name>П23</name>
+        <name>П22</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.278671" lon="43.003059">
         <ele>3034.522217</ele>
         <time>2023-07-06T06:42:53Z</time>
-        <name>П24</name>
+        <name>П23</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.277464" lon="43.004906">
         <ele>3108.000732</ele>
         <time>2023-07-06T07:17:52Z</time>
-        <name>П25</name>
+        <name>П24</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.276162" lon="43.009038">
@@ -265,7 +265,7 @@
     <wpt lat="43.274391" lon="43.014524">
         <ele>3388.596191</ele>
         <time>2023-07-06T10:23:12Z</time>
-        <name>П27</name>
+        <name>П26</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.273499" lon="43.016403">
@@ -301,25 +301,25 @@
     <wpt lat="43.258317" lon="43.006682">
         <ele>3539.536377</ele>
         <time>2023-07-07T11:40:13Z</time>
-        <name>П28</name>
+        <name>П29</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.257908" lon="43.002168">
         <ele>3456.286133</ele>
         <time>2023-07-07T12:25:24Z</time>
-        <name>П29</name>
+        <name>П30</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.256485" lon="43.000912">
         <ele>3337.044678</ele>
         <time>2023-07-07T12:44:31Z</time>
-        <name>П30</name>
+        <name>П31</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.255991" lon="42.991873">
         <ele>3250.670898</ele>
         <time>2023-07-07T13:28:30Z</time>
-        <name>П31</name>
+        <name>П32</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.262296" lon="42.987138">
@@ -337,7 +337,7 @@
     <wpt lat="43.260943" lon="42.972554">
         <ele>3401.736572</ele>
         <time>2023-07-08T12:12:01Z</time>
-        <name>П</name>
+        <name>П33</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.239826" lon="42.990501">
@@ -349,7 +349,7 @@
     <wpt lat="43.230118" lon="42.989387">
         <ele>2690.313721</ele>
         <time>2023-07-09T05:07:33Z</time>
-        <name>П</name>
+        <name>П34</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.194340" lon="43.053387">
@@ -361,7 +361,7 @@
     <wpt lat="43.179752" lon="43.040103">
         <ele>2065.442627</ele>
         <time>2023-07-09T14:26:16Z</time>
-        <name>П</name>
+        <name>П35</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.1621092279" lon="43.0240042973">
@@ -373,25 +373,25 @@
     <wpt lat="43.152249" lon="43.021808">
         <ele>2176.186035</ele>
         <time>2023-07-10T06:11:49Z</time>
-        <name>П</name>
+        <name>П36</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.139387" lon="43.031586">
         <ele>2462.441650</ele>
         <time>2023-07-10T07:47:03Z</time>
-        <name>П</name>
+        <name>П37</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.136821" lon="43.035969">
         <ele>2567.472900</ele>
         <time>2023-07-10T08:18:35Z</time>
-        <name>П</name>
+        <name>П38</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.133859" lon="43.043397">
         <ele>2651.382568</ele>
         <time>2023-07-10T08:50:41Z</time>
-        <name>П</name>
+        <name>П39</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.131531" lon="43.048055">
@@ -409,19 +409,19 @@
     <wpt lat="43.129447" lon="43.050417">
         <ele>2808.575195</ele>
         <time>2023-07-10T11:33:32Z</time>
-        <name>П</name>
+        <name>П40</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.127473" lon="43.053484">
         <ele>2934.511230</ele>
         <time>2023-07-10T12:06:56Z</time>
-        <name>П</name>
+        <name>П41</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.126706" lon="43.056900">
         <ele>3044.334961</ele>
         <time>2023-07-10T12:51:50Z</time>
-        <name>П</name>
+        <name>П42</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.126559" lon="43.059606">
@@ -433,19 +433,19 @@
     <wpt lat="43.127676" lon="43.064012">
         <ele>3224.117920</ele>
         <time>2023-07-11T05:55:27Z</time>
-        <name>П</name>
+        <name>П43</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.128868" lon="43.066288">
         <ele>3324.172363</ele>
         <time>2023-07-11T06:33:27Z</time>
-        <name>П</name>
+        <name>П44</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.131996" lon="43.068650">
         <ele>3380.835938</ele>
         <time>2023-07-11T07:12:38Z</time>
-        <name>П</name>
+        <name>П45</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.134132" lon="43.072765">
@@ -457,7 +457,7 @@
     <wpt lat="43.135374" lon="43.077136">
         <ele>3595.091309</ele>
         <time>2023-07-11T08:31:23Z</time>
-        <name>П</name>
+        <name>П46</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.136581" lon="43.080401">
@@ -469,13 +469,13 @@
     <wpt lat="43.135248" lon="43.081510">
         <ele>3822.415283</ele>
         <time>2023-07-11T09:55:22Z</time>
-        <name>П</name>
+        <name>П47</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.134853" lon="43.081536">
         <ele>3854.311279</ele>
         <time>2023-07-11T10:14:36Z</time>
-        <name>П</name>
+        <name>П48</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.139828" lon="43.089675">
@@ -487,7 +487,7 @@
     <wpt lat="43.143505" lon="43.097257">
         <ele>3296.971680</ele>
         <time>2023-07-11T13:05:36Z</time>
-        <name>П</name>
+        <name>П49</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.145704" lon="43.102517">
@@ -499,31 +499,31 @@
     <wpt lat="43.146267" lon="43.108799">
         <ele>3178.942383</ele>
         <time>2023-07-12T06:43:44Z</time>
-        <name>П</name>
+        <name>П50</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.148809" lon="43.114700">
         <ele>3096.727783</ele>
         <time>2023-07-12T07:20:43Z</time>
-        <name>П</name>
+        <name>П51</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.151985" lon="43.117915">
         <ele>3117.409424</ele>
         <time>2023-07-12T08:02:38Z</time>
-        <name>П</name>
+        <name>П52</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.155034" lon="43.120888">
         <ele>3185.505615</ele>
         <time>2023-07-12T08:33:23Z</time>
-        <name>П</name>
+        <name>П53</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.156602" lon="43.123301">
         <ele>3302.889893</ele>
         <time>2023-07-12T09:13:14Z</time>
-        <name>П</name>
+        <name>П54</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.158915" lon="43.127445">
@@ -535,7 +535,7 @@
     <wpt lat="43.169386" lon="43.130751">
         <ele>3167.794922</ele>
         <time>2023-07-12T10:56:03Z</time>
-        <name>П</name>
+        <name>П55</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.169404" lon="43.130725">
@@ -547,25 +547,25 @@
     <wpt lat="43.177373" lon="43.136471">
         <ele>3014.915771</ele>
         <time>2023-07-12T13:00:04Z</time>
-        <name>П</name>
+        <name>П56</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.187685" lon="43.141382">
         <ele>2739.807861</ele>
         <time>2023-07-12T13:30:42Z</time>
-        <name>П</name>
+        <name>П57</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.191990" lon="43.141600">
         <ele>2811.273193</ele>
         <time>2023-07-12T14:09:30Z</time>
-        <name>П</name>
+        <name>П58</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.195436" lon="43.144585">
         <ele>2923.044434</ele>
         <time>2023-07-12T14:43:55Z</time>
-        <name>П</name>
+        <name>П59</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.197879" lon="43.158679">
@@ -577,25 +577,25 @@
     <wpt lat="43.201423" lon="43.163275">
         <ele>2998.057861</ele>
         <time>2023-07-13T05:48:12Z</time>
-        <name>П</name>
+        <name>П60</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.199479" lon="43.169506">
         <ele>3113.635254</ele>
         <time>2023-07-13T06:28:26Z</time>
-        <name>П</name>
+        <name>П61</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.197480" lon="43.175907">
         <ele>3370.995850</ele>
         <time>2023-07-13T07:52:16Z</time>
-        <name>П</name>
+        <name>П62</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.196823" lon="43.177034">
         <ele>3448.791504</ele>
         <time>2023-07-13T08:32:15Z</time>
-        <name>П</name>
+        <name>П63</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.196206" lon="43.177737">
