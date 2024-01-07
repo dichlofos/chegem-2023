@@ -404,7 +404,7 @@
     <wpt lat="43.131531" lon="43.048055">
         <ele>2745.762451</ele>
         <time>2023-07-10T09:20:57Z</time>
-        <name>ПО</name>
+        <name>ОБЕД-8</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.131230" lon="43.048712">
@@ -458,7 +458,7 @@
     <wpt lat="43.134132" lon="43.072765">
         <ele>3464.722656</ele>
         <time>2023-07-11T07:47:52Z</time>
-        <name>ПО</name>
+        <name>ПЕРЕКУС-1</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.135374" lon="43.077136">
@@ -470,7 +470,7 @@
     <wpt lat="43.136581" lon="43.080401">
         <ele>3735.639404</ele>
         <time>2023-07-11T09:14:07Z</time>
-        <name>ПЕР</name>
+        <name>ПЕР. ТЮТЮРГУ ЗАПАДНЫЙ</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.135248" lon="43.081510">
@@ -488,7 +488,7 @@
     <wpt lat="43.139828" lon="43.089675">
         <ele>3453.931152</ele>
         <time>2023-07-11T12:22:00Z</time>
-        <name>ПО</name>
+        <name>ОБЕД-9</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.143505" lon="43.097257">
@@ -536,19 +536,13 @@
     <wpt lat="43.158915" lon="43.127445">
         <ele>3425.931641</ele>
         <time>2023-07-12T09:46:17Z</time>
-        <name>ПЕР</name>
-        <sym>Flag, Blue</sym>
-    </wpt>
-    <wpt lat="43.169386" lon="43.130751">
-        <ele>3167.794922</ele>
-        <time>2023-07-12T10:56:03Z</time>
-        <name>П55</name>
+        <name>ПЕР. КОРГАШИЛЬ СЕВЕРНЫЙ</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.169404" lon="43.130725">
         <ele>3167.457764</ele>
         <time>2023-07-12T10:57:29Z</time>
-        <name>ПО</name>
+        <name>ОБЕД-10</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.177373" lon="43.136471">
@@ -608,13 +602,13 @@
     <wpt lat="43.196206" lon="43.177737">
         <ele>3520.120605</ele>
         <time>2023-07-13T09:37:14Z</time>
-        <name>П СЛАДКОЕ</name>
+        <name>ПЕРЕКУС-2</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.196381" lon="43.179500">
         <ele>3580.715820</ele>
         <time>2023-07-13T10:13:35Z</time>
-        <name>ПЕР-ШИРМАН-СЕВЕРНЫЙ</name>
+        <name>ПЕР. ШИРМАН СЕВЕРНЫЙ</name>
         <sym>Flag, Blue</sym>
     </wpt>
     <wpt lat="43.204512" lon="43.221046">
