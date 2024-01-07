@@ -45,8 +45,9 @@ def _write_file(file_name, contents):
 
 def _tex_preprocess(text: str):
     text = text.replace('~', '&nbsp;')
+    text = text.replace('<<', '&laquo;')
+    text = text.replace('>>', '&raquo;')
     return text
-
 
 
 _TEST_TEXT = (
