@@ -709,13 +709,13 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 над ухом. Видимо, день был недостаточно сложный, и утомление далеко от предельного
 состояния, когда никакое фырканье разбудить уже не способно.
 
-![](images/full/01_01_br_Gerhogan_Suu.png "Брод р. Герхожан-Суу")
+![](images/scaled/01_01_br_Gerhogan_Suu.jpg "Брод р. Герхожан-Суу")
 
-![](images/full/01_02_br_Kayartysu.png "Брод р. Каяртысу"){height=13cm}
+![](images/scaled/01_02_br_Kayartysu.jpg "Брод р. Каяртысу"){height=13cm}
 
-![](images/full/01_03_br_Ullu_Stavatsu.png "Первый брод р. Уллуставатсу"){height=13cm}
+![](images/scaled/01_03_br_Ullu_Stavatsu.jpg "Первый брод р. Уллуставатсу"){height=13cm}
 
-![](images/full/01_04_br_Ullu_Stavatsu.png "Второй брод р. Уллуставатсу")
+![](images/scaled/01_04_br_Ullu_Stavatsu.jpg "Второй брод р. Уллуставатсу")
 
 ### День 2. 4 июля 2023 года.
 
@@ -797,17 +797,17 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 Мы решаем, что это знак, что мы всё правильно делаем. Открывается красивый вид в&nbsp;долину, откуда
 мы поднимались. В&nbsp;лагерь вернулись в&nbsp;18:37, на выход ушло 3ч 9м ЧХВ.
 
-![](images/full/02_01_travers_Saakashil.png "Неприятный траверс и подъём в&nbsp;д.р. Сакашишьсу"){width=18cm}
+![](images/scaled/02_01_travers_Saakashil.jpg "Неприятный траверс и подъём в&nbsp;д.р. Сакашишьсу"){width=18cm}
 
-![](images/full/02_02_br_Saakashil.png ""){width=18cm}
+![](images/scaled/02_02_br_Saakashil.jpg ""){width=18cm}
 
-![](images/full/02_03_br_Saakashil.png ""){width=18cm}
+![](images/scaled/02_03_br_Saakashil.jpg ""){width=18cm}
 
-![](images/full/02_04_radialka.png ""){width=18cm}
+![](images/scaled/02_04_radialka.jpg ""){width=18cm}
 
-![](images/full/02_05_radialka.png ""){width=18cm}
+![](images/scaled/02_05_radialka.jpg ""){width=18cm}
 
-![](images/full/02_06_radialka.png ""){width=18cm}
+![](images/scaled/02_06_radialka.jpg ""){width=18cm}
 
 
 ### День 3. 5 июля 2023 года
@@ -923,17 +923,17 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 из-за не слишком большой высоты. Специального снаряжения не требует, ужас новичкам не внушает.
 Однако, как и все перевалы с&nbsp;травяными склонами, требует аккуратности, особенно на спуске.
 
-![](images/full/03_01_per_Vzlet.png ""){width=18cm}
+![](images/scaled/03_01_per_Vzlet.jpg ""){width=18cm}
 
-![](images/full/03_02_per_Sakashil_Nignii.png ""){width=18cm}
+![](images/scaled/03_02_per_Sakashil_Nignii.jpg ""){width=18cm}
 
-![](images/full/03_03_Travers.png "")
+![](images/scaled/03_03_Travers.jpg "")
 
-![](images/full/03_04_Travers.png ""){width=18cm}
+![](images/scaled/03_04_Travers.jpg ""){width=18cm}
 
-![](images/full/03_05_Prigim.png ""){width=18cm}
+![](images/scaled/03_05_Prigim.jpg ""){width=18cm}
 
-![](images/full/03_06_br_Kestanty.png ""){width=18cm}
+![](images/scaled/03_06_br_Kestanty.jpg ""){width=18cm}
 
 \newpage
 
@@ -1028,9 +1028,9 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 \newpage
 
 
-![](images/full/04_01_dol_Kestanty.png ""){width=18cm}
+![](images/scaled/04_01_dol_Kestanty.jpg ""){width=18cm}
 
-![](images/full/04_02_per_Vzlet.png ""){width=18cm}
+![](images/scaled/04_02_per_Vzlet.jpg ""){width=18cm}
 
 \newpage
 
@@ -1204,11 +1204,11 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 предположительно, будет не очень комфортно. Хотя место под палатку найти можно, и вода
 неподалёку также имеется.
 
-![](images/full/05_01_rad_v_Kestantytau.png ""){width=18cm}
+![](images/scaled/05_01_rad_v_Kestantytau.jpg ""){width=18cm}
 
-![](images/full/05_02_v_Kestantytau.png ""){width=18cm}
+![](images/scaled/05_02_v_Kestantytau.jpg ""){width=18cm}
 
-![](images/full/05_03_travers.png ""){width=18cm}
+![](images/scaled/05_03_travers.jpg ""){width=18cm}
 
 \newpage
 
@@ -1333,9 +1333,9 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 с перевала не сложно (как при сквозном, так и при радиальном прохождении).
 Кроме того, современных отчётов по ней совсем немного.
 
-![](images/full/06_01_r_saryntau.png ""){width=18cm}
+![](images/scaled/06_01_r_saryntau.jpg ""){width=18cm}
 
-![](images/full/06_02_dol_Saryncu.png ""){width=18cm}
+![](images/scaled/06_02_dol_Saryncu.jpg ""){width=18cm}
 
 \newpage
 
@@ -1371,7 +1371,7 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 следует кипятить, так как повсюду следы выпаса скота. Как, впрочем, и на самой
 плоской площадке. Тут пришлось немного поработать над зачисткой местности.
 
-![](images/full/07_01_per_Turist.png ""){width=18cm}
+![](images/scaled/07_01_per_Turist.jpg ""){width=18cm}
 
 \newpage
 
@@ -1466,7 +1466,7 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 
 **Высотный профиль, день 7**
 
-![](images/minimap/profile_07.png "Мини-карта, день 7"){height=5cm}
+![](images/minimap/profile_07.png "Высотный профиль, день 7"){height=5cm}
 
 \newpage
 
@@ -1533,9 +1533,9 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 
 Рядом с&nbsp;озером пасутся яки, их удаётся пофотографировать.
 
-![](images/full/08_01_dol_Tuturgu.png ""){width=18cm}
+![](images/scaled/08_01_dol_Tuturgu.jpg ""){width=18cm}
 
-![](images/full/08_02_MN8.png ""){width=18cm}
+![](images/scaled/08_02_MN8.jpg ""){width=18cm}
 
 \newpage
 
@@ -1661,13 +1661,13 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 в некоторых отчётах называют в. Булунгу, соседствующей с&nbsp;седловиной перевала.
 Хорошая обзорная точка.
 
-![](images/full/09_01_per_Tuturgu.png ""){height=17cm}
+![](images/scaled/09_01_per_Tuturgu.jpg ""){height=17cm}
 
-![](images/full/09_02_vzlet_per_Tuturgu.png ""){width=18cm}
+![](images/scaled/09_02_vzlet_per_Tuturgu.jpg ""){width=18cm}
 
-![](images/full/09_03_rad_v_Bulungu.png ""){width=18cm}
+![](images/scaled/09_03_rad_v_Bulungu.jpg ""){width=18cm}
 
-![](images/full/09_04_spusk_per_Tuturgu.png ""){width=18cm}
+![](images/scaled/09_04_spusk_per_Tuturgu.jpg ""){width=18cm}
 
 \newpage
 
@@ -1736,7 +1736,7 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 ![](images/minimap/profile_10.png "Высотный профиль, день 10")
 
 
-![](images/full/10_01_near_per_Korgashil.png ""){width=18cm}
+![](images/scaled/10_01_near_per_Korgashil.jpg ""){width=18cm}
 
 
 ## 3.9. Перевал Илипсар (н/к)
@@ -1886,11 +1886,11 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 (и, соответственно, недостаточной акклиматизации) и неприятных осыпных склонов.
 Отметим также, что альтернатив этому перевалу при выходе в&nbsp;пос. Безенги практически нет.
 
-![](images/full/11_01_per_Shirman_Severnyi.png ""){height=15cm}
+![](images/scaled/11_01_per_Shirman_Severnyi.jpg ""){height=15cm}
 
-![](images/full/11_02_per_Shirman_Severnyi.png ""){width=18cm}
+![](images/scaled/11_02_per_Shirman_Severnyi.jpg ""){width=18cm}
 
-![](images/full/11_03_per_Shirman_Severnyi.png ""){width=18cm}
+![](images/scaled/11_03_per_Shirman_Severnyi.jpg ""){width=18cm}
 
 **Примечание**. Спусковые фото отсутствуют в связи с&nbsp;отсутствием видимости,
 так чтобы на фото можно было прорисовать маршрут.
@@ -1910,8 +1910,13 @@ Thuraya, которая отказывалась работать в&nbsp;Мин
 От поворота к реке до пос. Безенги |1:23|1:03|Дорога
 Итого|2:33|1:53|
 
+**Мини-карта, день 12**
+
 ![](images/minimap/map_12.png "Мини-карта, день 12")
-![](images/minimap/profile_12.png "Мини-карта, день 12")
+
+**Высотный профиль, день 12**
+
+![](images/minimap/profile_12.png "Высотный профиль, день 12")
 
 После вчерашнего ударного дня объявляется подъём в&nbsp;произвольное время и полуднёвка.
 Погода отличная, можно мыться и загорать. Вечером нужно будет всего лишь спуститься
