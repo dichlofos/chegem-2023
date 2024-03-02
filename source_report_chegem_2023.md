@@ -12,6 +12,8 @@
 - Протяжённость маршрута: 99 км (GPS, без коэффициентов)
 - Турклуб: [Горный Турклуб МГУ](https://www.geolink-group.com/tourclub)
 - Шифр TLIB: `2048/TLIB`
+- Отчёт в [каталоге Вестры](https://westra.ru/passes/Reports/4315)
+- Отчёт на сайте [Горного Турклуба МГУ](https://www.geolink-group.com/tourclub/trips/2023mv1/)
 - Последнее обновление: 02.03.2024
 - Версия: 1.38
 - На Кубке Москвы 2024 года, согласно протоколам ФСТ-ОТМ, поход занял [1-е место](https://fst-otm.net/file/rezult/marshrut_scan/2024KM/km2024_gori_1_f9.pdf?1)
@@ -82,13 +84,9 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 \thispagestyle{empty}
 \newpage
 <!--@@END(TEX)-->
-
-# Содержание
-
 <!-- TOC -->
 
 - [Сводная информация](#%D1%81%D0%B2%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
-- [Содержание](#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
 - [Справочные сведения](#%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B5-%D1%81%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F)
     - [Проводящая организация](#%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D1%8F%D1%89%D0%B0%D1%8F-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F)
     - [Географический регион пройденного маршрута](#%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%80%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D0%B0)
@@ -164,6 +162,7 @@ E-mail: \texttt{dichlofos-mv@yandex.ru}
 - [Приложение 2. Инструментарий](#%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-2-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9)
 - [Приложение 3. Координаты точек GPS](#%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-3-%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D1%8B-%D1%82%D0%BE%D1%87%D0%B5%D0%BA-gps)
 
+<!-- /TOC -->
 <!-- /TOC -->
 
 \newpage
